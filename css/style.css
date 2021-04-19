@@ -1,0 +1,188 @@
+.anneeBold{
+    border-bottom: 2px solid; 
+    width: 50%; 
+    margin-left:20%; 
+    text-align:center;
+    font-weight: bold;
+}
+
+.decalleLI{
+    margin-top: -10px; 
+    margin-left: 30px;
+}
+
+.container {
+    margin-top: 30px; 
+    text-align: justify;
+    font-size: 110%;
+}
+
+.form-control23{
+    height: 100px;
+}
+
+.marron{
+    color: #A52A2A;
+}
+
+.PlanSiteSub li{
+    text-align: center;
+    margin-left: -40px;
+}
+
+.TitrePlanSite{
+    text-align: center;
+}
+
+h1{
+    color: #444; 
+}
+
+h4{
+    color: #333; 
+}
+
+/* PIED DE PAGE */
+.h4Blanc{
+    text-align: center;
+    color: white;
+    margin-left: 45px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+form i.fas {
+    margin-left: 20px;
+    color: #444;
+}
+
+.contact-form{
+    box-shadow: 30px 20px 10px #222;
+}
+
+.py-2{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size:  100%;
+}
+
+.containerGeneral {
+    height: 300px;
+
+    margin: 0 auto;
+    width: 100px; 
+}
+
+.containerPiedGauche {
+    display: block;
+    font-weight: normal;
+
+    width: 300px;
+    height: 200px;
+
+    margin-top: -50px;
+    margin-left: -400px;
+    color: white;
+    
+    padding-top: 75px;
+    padding-left: 0px;
+}
+
+.containerPiedGauche h4{
+    margin-left: -120px;
+    font-size:  140%;
+}
+
+.containerPiedMillieu {
+    display: block;
+    font-weight: normal;
+
+    width: 300px;
+    height: 200px;
+
+    margin-top: -175px;
+    margin-left: -90px;
+    color: white;
+
+    padding-top: 50px;
+    padding-left: 0px;
+}
+
+.containerPiedMillieu h4{
+    margin-left: -90px;
+    font-size:  140%;
+}
+
+.containerPiedDroit {
+    display: block;
+    font-weight: normal;
+
+    width: 320px;
+    height: 200px;
+
+    margin-top: -200px;
+    margin-left: 180px;
+    color: white;
+
+    padding-top: 50px;
+    padding-left: 0px;
+}
+
+.containerPiedDroit h4{
+    margin-left: -110px;
+    font-size:  140%;
+}
+
+@media screen and (max-width: 950px) {
+
+    .containerGeneral {
+        height: 600px;
+    
+        margin: 0 auto;
+        width: 100px; 
+
+        margin-top: 5px;
+    }
+    
+    .containerPiedGauche {
+        display: block;
+        font-weight: normal;
+    
+        margin-top: -70px;
+        margin-left: -100px;
+        text-align: center;
+    }
+
+    .containerPiedGauche h4{
+        margin-left: 40px;
+    }
+    
+    .containerPiedMillieu {
+        display: block;
+        font-weight: normal;
+    
+        margin-top: 10px;
+        margin-left: -100px;
+        text-align: center;
+    }
+    
+    .containerPiedMillieu h4{
+        margin-left: 40px;
+    }
+
+    .containerPiedDroit {
+        display: block;
+        font-weight: normal;
+    
+        margin-top: -30px;
+        margin-left: -100px;
+        text-align: center;
+    }
+
+    .containerPiedDroit h4{
+        margin-left: 40px;
+    }
+
+}

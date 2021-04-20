@@ -52,7 +52,7 @@
 			<nav class="navbar navbar-expand-lg navbar-dark">
 				<a class="navbar-brand" id="navbarTitre" href="index.php"
 				><i  style="margin-top: -200px !important;" class="fas fa-address-book"></i>
-				<span class="font-weight-bold" id="navbarTitreSpan">Jean-Baptiste SEVESTRE</span></a>
+				<span class="font-weight-bold" id="navbarTitreSpan">JEAN-BAPTISTE SEVESTRE</span></a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" 
 				data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" 
@@ -96,3 +96,5 @@
 	</div>
     <br />
     <!-- Fin NavBar Bootstrap -->
+
+	<script src="./js/controller.js"></script>

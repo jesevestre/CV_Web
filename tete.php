@@ -11,7 +11,7 @@
 		<link  rel="stylesheet" type="text/css" href="css/navbar.scss" />
 		
 		<script src="https://kit.fontawesome.com/26d4a64054.js" crossorigin="anonymous"></script>
-		
+		<script src="js/main.js"></script>
 
 		<!-- Pour menu Bootstrap -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

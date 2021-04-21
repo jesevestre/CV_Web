@@ -229,6 +229,11 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   }
 
   /* Accessibilité tablette/mobile */
+  @media screen and (max-width: 400px){
+    .tel-400px{
+      padding-top: 60px;
+    }
+  }
   @media screen and (max-width: 600px){
     #maxime{
       display: block;
@@ -237,7 +242,6 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   
       width: 15rem;
     }
-  
     #tony{
       display: block;
       margin-left: auto;
@@ -245,7 +249,6 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   
       width: 15rem;
     }
-  
     .maxTraining{
       width: 65%;
     }

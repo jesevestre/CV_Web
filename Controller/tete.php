@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link  rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
-		<link  rel="stylesheet" type="text/css" href="css/navbar.css" />
+		<link  rel="stylesheet" type="text/css" href="../css/navbar.css" />
 		
 		<script src="https://kit.fontawesome.com/26d4a64054.js" crossorigin="anonymous"></script>
 		<script src="js/main.js"></script>
@@ -46,12 +46,11 @@
 
 <body>
 	<!-- NavBar Bootstrap --> 
-	<div class="navbarwrap bg-primary py-2" style="z-index: 10;">
+	<div class="navbarwrap bg-primary py-2" style="margin-top: 0px !important; z-index: 10;">
 		<div class="container">
 
 			<nav class="navbar navbar-expand-lg navbar-dark">
-				<a class="navbar-brand" id="navbarTitre" href="index.php"
-				><i  style="margin-top: -200px !important;" class="fas fa-address-book"></i>
+				<a class="navbar-brand" id="navbarTitre" href="../index.php"><i class="fas fa-address-book"></i>
 				<span class="font-weight-bold" id="navbarTitreSpan">JEAN-BAPTISTE SEVESTRE</span></a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" 
@@ -60,34 +59,34 @@
 				<div class="navbar-toggler-icon"></div>
 				</button>
 
-				<div class="collapse navbar-collapse" id="navbarNavDropdown" style="top: -400px !important;">
+				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.php">Page principale<span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="../index.php">Page principale<span class="sr-only">(current)
 							</span></a>
 						</li>
 
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.php#/arbre">Qui suis-je?<span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="../index.php#/arbre">Qui suis-je?<span class="sr-only">(current)
 							</span></a>
 						</li>
 
 						<li class="nav-item dropdown active">
-							<a class="nav-link dropdown-toggle" href="#" id="navBarMenu" 
+							<a class="nav-link dropdown-toggle" href="#" id="navBarMenu"
 							role="button" data-bs-toggle="dropdown" aria-expanded="false"
 							data-toggle="collapse">Menu</a>
 
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="index.php#/arbre">Mon profil</a>
-								<a class="dropdown-item" href="experiences.php">Mes expériences</a>
-								<a class="dropdown-item" href="competenceInfo.php">Compétences informatiques</a>
-								<a class="dropdown-item" href="formations.php">Mes formations</a>
-								<a class="dropdown-item" href="loisirsPassions.php">Loisirs et passions</a>
+								<a class="dropdown-item" href="../index.php#/arbre">Mon profil</a>
+								<a class="dropdown-item" href="../experiences.php">Mes expériences</a>
+								<a class="dropdown-item" href="../competenceInfo.php">Compétences informatiques</a>
+								<a class="dropdown-item" href="../formations.php">Mes formations</a>
+								<a class="dropdown-item" href="../loisirsPassions.php">Loisirs et passions</a>
 							</div>
 						</li>
 
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="contact.php">Me contacter</a>
+							<a class="nav-link" id="navBarMenu" href="../contact.php">Me contacter</a>
 						</li>
 					</ul>
 				</div>
@@ -97,4 +96,4 @@
     <br />
     <!-- Fin NavBar Bootstrap -->
 
-	<script src="./js/controller.js"></script>
+	<script src="../js/controller.js"></script>

@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link  rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
-		<link  rel="stylesheet" type="text/css" href="css/navbar.scss" />
+		<link  rel="stylesheet" type="text/css" href="css/navbar.css" />
 		
 		<script src="https://kit.fontawesome.com/26d4a64054.js" crossorigin="anonymous"></script>
 		<script src="js/main.js"></script>
@@ -96,4 +96,4 @@
     <br />
     <!-- Fin NavBar Bootstrap -->
 
-	<script src="./js/controller.js"></script>
+	<script src="js/controller.js"></script>

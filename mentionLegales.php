@@ -3,6 +3,7 @@
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">
 <br />
+<div class="tel-400px"></div>
 
     <h1>Mentions légales</h1>
         <br />

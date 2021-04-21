@@ -255,6 +255,9 @@ span.arbre_et_definition2 a {
     #boutonTelechargement {
         margin-top: 95%;
     }
+    .maPhoto{
+        margin-top: 20px;
+    }
 }
 @media screen and (min-width: 1200px) {
     .boutonGaucheMenu{
@@ -267,10 +270,10 @@ span.arbre_et_definition2 a {
         margin-top: -950px;
     }
     #boutonRetour {
-        margin-top: 95%;
+        margin-top: 98%;
     }
     #boutonTelechargement {
-        margin-top: 95%;
+        margin-top: 98%;
     }
 }
 @media screen and (min-width: 1350px) {
@@ -305,11 +308,6 @@ span.arbre_et_definition2 a {
     }
     #boutonTelechargement {
         margin-top: 82%;
-    }
-}
-@media screen and (min-width: 1500px) {
-    .boutonGaucheMenu{
-        margin-left: 44%;
     }
 }
 

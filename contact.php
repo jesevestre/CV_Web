@@ -3,12 +3,13 @@
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">
 <br />
+<div class="tel-400px"></div>
 
 	<h1>Formulaire de contact</h1>
 	<br />
 
 	<div class="contact-form">
-		<form id="contact-form" method="POST" action="controller/contact_post.php" >
+		<form id="contact-form" method="POST" action="Controller/contact_post.php" >
 			<i class="fas fa-2x  fa-user"></i>
 			<input type="text" name="name" class="form-control" placeholder="Votre prénom et nom" required />
 			<br />
@@ -22,7 +23,7 @@
 			<br />
 
 			<i class="fas fa-2x fa-file-signature"></i>
-			<textarea name="message"  class="form-control" style="height: 200px;" placeholder="Votre message" ></textarea>
+			<textarea name="message" class="form-control" style="height: 200px;" placeholder="Votre message" ></textarea>
 			<br />
 			
 			<div class="d-grid gap-2 col-2 mx-auto" style="padding-top: -20px;">

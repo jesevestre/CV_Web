@@ -13,7 +13,6 @@ function ouvrirFermerSousMenu(div) {
 
 /* NavBar Bootstrap */
 $(document).ready( $(function(){
-
     var navbtn = $(".navbar-toggler");
     var nav = $(".navbarwrap");
   
@@ -24,7 +23,7 @@ $(document).ready( $(function(){
     //Partie pour un en-tête avec l'effet dégradé
     $(window).scroll(function(){
         var scroll = $(window).scrollTop();
-    
+
         if(scroll <= 50){
             nav.removeClass("nav-transparent py-0").addClass("nav-colored py-2");
         } else {

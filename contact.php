@@ -23,7 +23,7 @@
 			<br />
 
 			<i class="fas fa-2x fa-file-signature"></i>
-			<textarea name="message" class="form-control" style="height: 200px;" placeholder="Votre message" ></textarea>
+			<textarea name="message" class="form-control" style="height: 100px;" placeholder="Votre message" ></textarea>
 			<br />
 			
 			<div class="d-grid gap-2 col-2 mx-auto" style="padding-top: -20px;">

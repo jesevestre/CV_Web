@@ -132,6 +132,8 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
     margin-top: -50px !important;
     position: fixed;
     width: 100%;
+    
+    z-index: 4;
   }
   
   #navbarNavDropdown{
@@ -205,15 +207,18 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   .dropdown-item {
     color: #444;
     font-weight: bold;
+    z-index: 4;
   }
 
   .dropdown-menu{
       width: 250px;
+      z-index: 4;
   }
 
   .dropdown-item:hover {
     font-weight: bold;
     color: rgb(245,208,72);
+    z-index: 4;
   }
   
   .bg-dark {

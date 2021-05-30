@@ -8,9 +8,10 @@
 
 					<div class="col-md-4 col-lg-4 col-xl-3 mx-auto mt-3">
 						<h5 class="text-uppercase mb-4 font-weight-bold text-warning">Présentation</h5>
-						<p>Je m'appel Jean-Baptiste, j'ai 25 ans et je réalise ce site web dans le but
-							 de présenter quelques une de mes compétences dans le développement de site 
-							 internet - ici - en HTML/CSS et JavaScript avec Bootstrap5.<br />
+						<p>Je m'appel Jean-Baptiste, et je réalise ce CV web dans le but
+							 de présenter mes compétences dans le développement de site 
+							 internet - ici en HTML/CSS et JavaScript avec Bootstrap5 - 
+							 (prochainement VueJS2).<br />
 							 <i class="fab fa-js-square"></i> 
 							 <i class="fab fa-html5"></i> 
 							 <i class="fab fa-css3-alt"></i> 

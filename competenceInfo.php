@@ -1,11 +1,12 @@
+
+<a id="environnement"></a>
+
 <?php require('tete.php'); ?>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">
 <br />
 <div class="tel-400px"></div>
-
-<a id="environnement"></a>
 
     <h1>Compétences informatiques</h1>
     <br />
@@ -22,9 +23,9 @@
                     <li>•	<b>PHP</b></li>
                     <li>•	<b>HTML/CSS</b></li>
                     <li>•	<b>Base de données</b> SQL (MySQL, SQLServer, PostgreSQL)</li>
-                    <li>•	Javascript</li>
-                    <li>•	Front-end VueJS (en cours)</li>
-                    <li>•	Back-end Symfony4/5 (en cours)</li>
+                    <li>•	<b>Javascript</b></li>
+                    <li>•	Front-end VueJS</li>
+                    <li>•	Back-end Symfony4/5</li>
                 </ul>
             </div>
 

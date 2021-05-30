@@ -122,11 +122,15 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
     margin-top: 3px;
   }
 
-.navbar-toggler{
+  .navbar-toggler{
     margin-top: 20px !important;
     width: 50px;
   }
   
+  .navbarwrap .container{
+    margin-top: 5px;
+  }
+
   .navbarwrap{
     position: relative;
     margin-top: -50px !important;

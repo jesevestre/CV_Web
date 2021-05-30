@@ -1,12 +1,12 @@
+<a id="sport"></a>
+<a id="autre"></a>
+
 <?php require('tete.php'); ?>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">
 <br />
 <div class="tel-400px"></div>
-
-<a id="sport"></a>
-<a id="autre"></a>
 
     <h1>Mes loisirs et passions</h1>
     <br />

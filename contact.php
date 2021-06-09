@@ -10,8 +10,30 @@
 	<h1>Formulaire de contact</h1>
 	<br />
 
+	<?php
+
+	if(isset($_POST["name"],$_POST["email"],$_POST["subject"],$_POST["message"])){
+
+		$name = $_POST['name'];
+		$headers = 'FROM ' . $_POST['email'];
+		$subject = $_POST['subject'];
+		$message = $_POST['message'];
+	
+		mail('sevestre.jb@gmail.com',
+		'Message venant du site jsevestre02.free.fr :' . $headers, "Nom de l'expéditeur: " .
+		$name . "\n" . "\n" . "Message du mail:" . "\n" . $message, $headers);
+		?>
+		<div class="alert alert-success">
+			Votre message a bien été envoyé
+		</div>
+		<?php
+	} else {
+
+	}
+	?>
+
 	<div class="contact-form">
-		<form id="contact-form" method="POST" action="Controller/contact_post.php" >
+		<form id="contact-form" method="POST" action="#" >
 			<i class="fas fa-2x  fa-user"></i>
 			<input type="text" name="name" class="form-control" placeholder="Votre prénom et nom" required />
 			<br />

@@ -1,46 +1,5 @@
 /*NavBar Bootstrap */
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto");
-
-$font-family-base: "Roboto", "sans-serif";
-$enable-responsive-font-sizes: true;
-
-$color-1: #333;
-$color-2: #7209b7;
-$color-3: #f72585;
-$color-4: #4361ee;
-$color-5: #4cc9f0;
-$color-6: #237a94;
-
-$primary: $color-1;
-$secondary: $color-2;
-$success: $color-3;
-$info: $color-4;
-$warning: $color-5;
-$danger: $color-6;
-
-$dropdown-bg: $color-1;
-$dropdown-link-color: $color-5;
-$dropdown-link-hover-color: darken($color-5, 20%);
-$dropdown-link-hover-bg: darken($color-1, 10%);
-$dropdown-divider-bg: lighten($color-1, 10%);
-$dropdown-border-color: rgba($color-5, .15) !default;
-
-
-@import "css/bootstrap";
-
-html{
-    font-size: 15.25px;
-    letter-spacing: -0.02em;
-    word-spacing: 0.05em;
-}
-
-html,body,.carousel-inner,.carousel-item{height: 100%;}
-.carousel-item{
-    background-size: cover;
-    background-position: center;
-}
-
 .navbar-toggler {
     &:focus {
         outline: none;

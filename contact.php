@@ -1,3 +1,5 @@
+<a id="#"></a>
+
 <?php require('tete.php'); ?>
 <link  rel="stylesheet" type="text/css" href="css/style.css" />
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->

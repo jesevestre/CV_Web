@@ -86,7 +86,7 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
 
     .navbar-toggler-inner{
         transition: 0.2s;
-        transform: rotate(45deg); // 45+360
+        transform: rotate(45deg);
     }
     .navbar-toggler-inner::before{
         top: 0;
@@ -123,7 +123,7 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   }
 
   .navbar-toggler{
-    margin-top: 20px !important;
+    margin-top: 50px !important;
     width: 50px;
   }
   
@@ -141,14 +141,17 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   }
   
   #navbarNavDropdown{
-    margin-top: 20px !important;
+    margin-top: 45px !important;
+  }
+  #navbarNavDropdown ul li a{
+    font-size: 110%;
   }
   #navBarMenu:hover{
     color: rgb(245,208,72) !important;
   }
 
   #navbarTitre{
-    margin-top: 2%;
+    margin-top: -46px;
   }
   #navbarTitreSpan:hover{
     color: rgb(245,208,72);
@@ -215,7 +218,7 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
   }
 
   .dropdown-menu{
-      width: 250px;
+      width: 270px;
       z-index: 4;
   }
 
@@ -263,12 +266,12 @@ html,body,.carousel-inner,.carousel-item{height: 100%;}
     }
   }
 
-  @media screen and (max-width: 1000px){
+  @media screen and (max-width: 992px){
     #navbarNavDropdown{
         margin-top: 0px !important;
       }
       #navbarTitre{
-        margin-top: 4%;
+        margin-top: -46px;
       }
   }
   

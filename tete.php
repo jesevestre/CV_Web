@@ -26,7 +26,7 @@
 		
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" 
 		integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" 
-		crossorigin="anonymous"></script>		
+		crossorigin="anonymous"></script>	
 
 		<script> /* Script pour l'adaptation des navigateurs au téléchargement */
 			if ( ! Modernizr.adownload ) {
@@ -49,7 +49,7 @@
 		<div class="container">
 
 			<nav class="navbar navbar-expand-lg navbar-dark">
-				<a class="navbar-brand" id="navbarTitre" href="index.php"><i class="fas fa-address-book"></i>
+				<a class="navbar-brand" id="navbarTitre" href="index.html"><i class="fas fa-address-book"></i>
 				<span class="font-weight-bold" id="navbarTitreSpan">JEAN-BAPTISTE SEVESTRE</span></a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" 
@@ -61,12 +61,12 @@
 				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.php">Page principale<span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="index.html">Page principale<span class="sr-only">(current)
 							</span></a>
 						</li>
 
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.php#/arbre">Qui suis-je?<span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="index.html#/arbre">Qui suis-je?<span class="sr-only">(current)
 							</span></a>
 						</li>
 
@@ -76,7 +76,7 @@
 							data-toggle="collapse">Menu</a>
 
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="index.php#/arbre">Mon profil</a>
+								<a class="dropdown-item" href="index.html#/arbre">Mon profil</a>
 								<a class="dropdown-item" href="experiences.php">Mes expériences</a>
 								<a class="dropdown-item" href="competenceInfo.php">Compétences informatiques</a>
 								<a class="dropdown-item" href="formations.php">Mes formations</a>

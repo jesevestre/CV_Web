@@ -1,12 +1,12 @@
+<a id="stages"></a>
+<a id="projets"></a>
+
 <?php require('tete.php'); ?>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">
 <br />
 <div class="tel-400px"></div>
-
-<a id="stages"></a>
-<a id="projets"></a>
 
     <h1>Mes expériences</h1>
     <br />
@@ -29,8 +29,9 @@
                     en tant qu’analyste développeur en modèle MVC back-end (PHP-Objet), front-end (Framework 
                     VueJS-2) et administrateur base de données (SQLServer), et enfin bêta-testeur.</li>
 
-                    <li>•	Développement et déploiement du site de l’entreprise utilisant entre autres la 
-                    librairie Impress.js ayant comme objectif principal l’explication du logiciel d’ERP Squalp.</li>
+                    <li>•	Audite des besoins et développement du site internet de l’entreprise utilisant entre autres la 
+                    librairie Impress.js ayant comme objectif la mise en ligne d'un site vitrine reflétant le sérieux 
+					et les multiples possiblités d'utilisation du logiciel d’ERP Squalp.</li>
 
                     <li>•	Utilisation du logiciel d’analyse de visualisation de données avec POWER-BI low-code.</li>
                 </ul>
@@ -98,7 +99,7 @@
                     <li>•	Réalisation d’un site internet vitrine pour un ami se lançant dans le coaching sportif et ayant 
                     besoin de visibilité. Site web réalisé avec le Framwork VueJS-2 contenant présentement un carrousel, 
                     un zoom image, un sytème de routeur avec des animations entre les vues et un en-tête/pied de page avec
-                    Bootstrap5 (pas encore déployé).</li><br />
+                    Bootstrap5. Enfin, développement d'une boutique en ligne permettant de vendre des produits sportifs (pas encore déployé).</li><br />
 
                     <li>•	Création d’un site internet pour l'association équestre de l'Ecole Polytechnique, comprenant 
                     une partie actualité, ainsi qu'une partie gestion des cours. Ce site web est aussi doté d'une partie
@@ -113,14 +114,14 @@
                      <a href="FichierTelechargeable/Rapport-Finale_Don'tForget.pdf"
                     download="Rapport-Finale_Don'tForget.pdf">Télécharger le rapport</a></li><br />
 
-                    <li>•	Création d’un globe terrestre à persistance rétinienne à LED <a 
-                    href="FichierTelechargeable/Projet_Tutoré_GlobeLED_SEVESTRE.pdf" download="Projet_Tutoré_GlobeLED_SEVESTRE.pdf">
-                    Télécharger le rapport</a></li><br />
-
                     <li>•	Réalisation sur le Framework back-end Symfony4 d'un blog avec base de données en architecture MVC, possédant 
                     différents niveaux d'autorisation (administrateur, modérateur, éditeur et utilisateur) possédant un espace personnel sécurisé.
                     Ce blog comprend la possibilité d'une gestion complète des articles avec différentes catégories disponibles, et un espace 
                     commentaire en dessous.</li><br />
+					
+					<li>•	Création d’un globe terrestre à persistance rétinienne à LED <a 
+                    href="FichierTelechargeable/Projet_Tutoré_GlobeLED_SEVESTRE.pdf" download="Projet_Tutoré_GlobeLED_SEVESTRE.pdf">
+                    Télécharger le rapport</a></li><br />
                 </ul>
             </div>
             

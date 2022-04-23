@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
 	<head>
-		<title>JEAN-BAPTISTE SEVESTRE</title>
-		
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Ccomptable" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
+		<link rel="icon" type="image/PNG" href="images/icone.PNG" />
+    	<title>CV web M. Sevestre</title>
+		
 		<link  rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
 		<link  rel="stylesheet" type="text/css" href="css/navbar.css" />
 		
@@ -26,7 +27,10 @@
 		
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" 
 		integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" 
-		crossorigin="anonymous"></script>	
+		crossorigin="anonymous"></script>
+
+		<!-- Charte JS -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.3.2/chart.min.js"></script>	
 
 		<script> /* Script pour l'adaptation des navigateurs au téléchargement */
 			if ( ! Modernizr.adownload ) {
@@ -45,7 +49,7 @@
 
 <body>
 	<!-- NavBar Bootstrap --> 
-	<div class="navbarwrap bg-primary py-2">
+	<div class="navbarwrap py-2"id="bg-primary">
 		<div class="container">
 
 			<nav class="navbar navbar-expand-lg navbar-dark">
@@ -61,12 +65,12 @@
 				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.html">Page principale<span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="index.html"><strong>Accueil</strong><span class="sr-only">(current)
 							</span></a>
 						</li>
 
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.html#/arbre">Qui suis-je?<span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="monProfil.php">Mon profil<span class="sr-only">(current)
 							</span></a>
 						</li>
 
@@ -76,7 +80,6 @@
 							data-toggle="collapse">Menu</a>
 
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="index.html#/arbre">Mon profil</a>
 								<a class="dropdown-item" href="experiences.php">Mes expériences</a>
 								<a class="dropdown-item" href="competenceInfo.php">Compétences informatiques</a>
 								<a class="dropdown-item" href="formations.php">Mes formations</a>

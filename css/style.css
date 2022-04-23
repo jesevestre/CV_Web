@@ -29,6 +29,13 @@ html, body {
     margin-left: -40px;
 }
 
+.maPhoto{
+    display: block;
+    width:30%;
+    margin-top: 50px;
+    margin-left: 30%;
+}
+
 .TitrePlanSite{
     text-align: center;
 }
@@ -134,6 +141,9 @@ form i.fas {
     font-size:  140%;
 }
 
+.copyright{
+    float: right;
+}
 
 /* SYSTEME D'ONGLETS */
 .ul.tabs , .tabs li{
@@ -185,6 +195,10 @@ form i.fas {
   
   .tab-content.active{
     display: block;
+  }
+
+  .tab-content ul li{
+    margin-left: -20px;
   }
   
   /* SYSTEME D'ONGLETS - TRANSITIONS */
@@ -248,4 +262,80 @@ form i.fas {
         margin-left: 40px;
     }
 
+    .maPhoto{
+        display: block;
+        width:65%;
+        margin-top: 50px;
+        margin-left: 15%;
+    }
+
+}
+
+/* EFFET NEON DANS LA PAGE LOISIRS */
+.image_sport{
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0F1419;
+
+    box-shadow:
+    0 0 2vw 0vw #7476FF,
+    0 0 1vw 0.4vw #0408fb,
+    inset 0 0 .5vw 0.2vw #7476FF,
+    inset 0 0 .2vw 0.2vw #3134FF,
+    inset 0 0 .25vw 0.2vw #0408FB;
+    border-radius: 15px;
+}
+
+.image_sport img{
+    max-width: 100%;
+    filter:
+    drop-shadow(0 0.15vw 0.30vw rgb(245,208,72))
+    drop-shadow(0 0.15vw 0.30vw #8A8942);
+    animation : saxo-blink 2s infinite alternate;
+}
+
+@keyframes saxo-blink {
+    0%, 9%, 15%, 79%, 83%, 100% {
+        filter:
+            drop-shadow(0 0.15vw 0.30vw rgb(245,208,72))
+            drop-shadow(0 0.15vw 0.30vw #8A8942);
+    }
+
+    10%, 14%, 80%, 82% {
+        filter: none;
+    }
+}
+
+@media screen and (min-width: 990px) {
+    .image_sport{
+        padding-left: 15%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/*ANIMATION SCROLL*/
+.slide-scroll{
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: transform 2s ease-in-out;
+    opacity: 0.8s ease-in-out;
+}
+.slide-scroll.active{
+    transform: translateX(0%);
+    opacity: 1;
+}
+
+.slide-scroll2{
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: transform 2s ease-in-out;
+    opacity: 0.8s ease-in-out;
+}
+.slide-scroll2.active{
+    transform: translateX(0%);
+    opacity: 1;
 }

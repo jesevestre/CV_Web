@@ -19,8 +19,19 @@
         </ul>
         <div class="tabs-content">
 
-            <div class="tab-content active" id="professionnelles"><p><b>Analyste développeur, ISOAR, Rungis (91)
-            </b> Décembre - Mars 2021 (4 mois)</p>
+            <div class="tab-content active" id="professionnelles"><p><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022</p>
+                <ul>
+                    <li>•   Maintien de 5 applications web dans les domaines du recrutement RH, 
+                        suivi financier, gestion des projets et gestion des contrats chercheurs.</li>
+
+                    <li>•	Réaliser l’évolution de ces applications en prenant en compte les 
+                        besoins des utilisateurs et anticiper leurs attentes.</li>
+
+                    <li>•	Participation de la migration vers un nouveau serveur en version 
+                        PHP 7.4 et APACHE 2.0 avec un informaticien réseau et administrateur système.</li>
+                </ul>
+                
+                <p><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</p>
                 <ul>
                     <li>•	Développement de l’outil CRM web du logiciel Squalp ayant comme objectif pour les 
                     commerciaux d’avoir une utilisation nomade de l’application lors de leur mission chez 
@@ -35,6 +46,8 @@
 
                     <li>•	Utilisation du logiciel d’analyse de visualisation de données avec POWER-BI low-code.</li>
                 </ul>
+                <br />
+
             </div>
 
             <div class="tab-content" id="stages"><p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)
@@ -51,13 +64,12 @@
                         dimension internationale utilisant les langages dont je suis à présent expérimenté 
                         comme les langage PHP, HTML/CSS et les requêtes PostgreSQL.</li>
 
-                    <li><a href="FichierTelechargeable/Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf" download="Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf">Télécharger le rapport</a></li>
-                    <li><a href="FichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_Master.pptx" download="Oral_Jean-Baptiste_SEVESTRE_Master.pptx">Télécharger la présentation</a></li>
+                    <li><a href="fichierTelechargeable/Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf" download="Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf">Télécharger le rapport</a></li>
+                    <li><a href="fichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_Master.pptx" download="Oral_Jean-Baptiste_SEVESTRE_Master.pptx">Télécharger la présentation</a></li>
                 </ul>
                 <br />
 
                 <p><b>Stagiaire en domotique dans un EHPAD, Fondation Partage & Vie, Corbehem (62)</b> Février – Juin 2018 (5 mois)</p>
-
                 <ul>
                     <li>•	Ma mission était la réalisation d’une étude de faisabilité, de conception et de réalisation d'un 
                         appartement dans le but de le domotiser.</li>
@@ -65,31 +77,33 @@
                     <li>•	Capacité de recherche de matériel à mettre en place, travail en équipe, en lien étroit avec de nombreuses 
                         entreprises, réalisation d’appel à projet, préparation et animation des réunions, force de proposition.</li>
 
-                    <li><a href="FichierTelechargeable/Rapport_De_Stage_Jean-Baptiste_SEVESTRE_Licence.pdf" download="Rapport_De_Stage_Jean-Baptiste_SEVESTRE_Licence.pdf">Télécharger le rapport</a></li>
-                    <li><a href="FichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_Licence.ppt" download="Oral_Jean-Baptiste_SEVESTRE_Licence.ppt">Télécharger la présentation</a></li>
+                    <li><a href="fichierTelechargeable/Rapport_De_Stage_Jean-Baptiste_SEVESTRE_Licence.pdf" download="Rapport_De_Stage_Jean-Baptiste_SEVESTRE_Licence.pdf">Télécharger le rapport</a></li>
+                    <li><a href="fichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_Licence.ppt" download="Oral_Jean-Baptiste_SEVESTRE_Licence.ppt">Télécharger la présentation</a></li>
                 </ul>
                 <br />
 
-                <p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)</b> Avril - Juillet 2017 (3 mois)</p>
+                <div class="slide-scroll">
+                    <p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)</b> Avril - Juillet 2017 (3 mois)</p>
+                    <ul class="decalleLI">
+                        <li>•	Ma mission était la réalisation d’une étude visant la réduction du temps de transfert des données lors 
+                            de la production des véhicules.</li>
 
-                <ul class="decalleLI">
-                    <li>•	Ma mission était la réalisation d’une étude visant la réduction du temps de transfert des données lors 
-                        de la production des véhicules.</li>
+                        <li>•	Présentation de mes travaux devant mon groupe projet de 18 personnes avec la présence des responsables 
+                            du Groupe Renault qui décident des investissements.</li>
 
-                    <li>•	Présentation de mes travaux devant mon groupe projet de 18 personnes avec la présence des responsables 
-                        du Groupe Renault qui décident des investissements.</li>
-
-                    <li><a href="FichierTelechargeable/Rapport_De_Stage_Jean-Baptiste_SEVESTRE_IUT.pdf" download="Rapport_De_Stage_Jean-Baptiste_SEVESTRE_IUT.pdf">Télécharger le rapport</a></li>
-                    <li><a href="FichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_IUT.pptx" download="Oral_Jean-Baptiste_SEVESTRE_IUT.pptx">Télécharger la présentation</a></li>
-                </ul>
+                        <li><a href="fichierTelechargeable/Rapport_De_Stage_Jean-Baptiste_SEVESTRE_IUT.pdf" download="Rapport_De_Stage_Jean-Baptiste_SEVESTRE_IUT.pdf">Télécharger le rapport</a></li>
+                        <li><a href="fichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_IUT.pptx" download="Oral_Jean-Baptiste_SEVESTRE_IUT.pptx">Télécharger la présentation</a></li>
+                    </ul>
+                </div>
                 <br />
 
-                <p><b>Stagiaire en robotique, Université Glyndwr, Pays de Galles</b> Juillet 2015 (4 semaines)</p>
-
-                <ul class="decalleLI">
-                    <li>•	Perfectionnement de l’anglais et présentation en anglais des performances du robot Nao devant 
-                        des journalistes d’une chaine nationale et des professeurs de l’université.</li>
-                </ul>
+                <div class="slide-scroll2">
+                    <p><b>Stagiaire en robotique, Université Glyndwr, Pays de Galles</b> Juillet 2015 (4 semaines)</p>
+                    <ul class="decalleLI">
+                        <li>•	Perfectionnement de l’anglais et présentation en anglais des performances du robot Nao devant 
+                            des journalistes d’une chaine nationale et des professeurs de l’université.</li>
+                    </ul>
+                </div>
             </div>
 
 
@@ -97,9 +111,11 @@
             <div class="tab-content" id="projets">
                 <ul class="decalleLI">
                     <li>•	Réalisation d’un site internet vitrine pour un ami se lançant dans le coaching sportif et ayant 
-                    besoin de visibilité. Site web réalisé avec le Framwork VueJS-2 contenant présentement un carrousel, 
-                    un zoom image, un sytème de routeur avec des animations entre les vues et un en-tête/pied de page avec
-                    Bootstrap5. Enfin, développement d'une boutique en ligne permettant de vendre des produits sportifs (pas encore déployé).</li><br />
+                    besoin de visibilité. Site web réalisé avec le Framwork VueJS-2 contenant présentement un carrousel avec un zoom image, 
+                    un système d'onglet permettant d'afficher les informations hiérarchiquement, un système de routeur avec des 
+                    animations entre les vues, une boutique en ligne permettant de vendre des produits sportifs, une page de contact, 
+                    et enfin un en-tête/pied de page avec Bootstrap5 : <a href="http://m.training.free.fr/" target="blank">
+                    <span class="text-primary">m.training.free.fr</span></a></li><br />
 
                     <li>•	Création d’un site internet pour l'association équestre de l'Ecole Polytechnique, comprenant 
                     une partie actualité, ainsi qu'une partie gestion des cours. Ce site web est aussi doté d'une partie
@@ -111,7 +127,7 @@
                     comprenant une montre connectée et une application aidant. L'objectif de ce projet est que la personne âgée
                     puisse se repérer et être guidées dans l’espace public. De plus un outil de reconnaissance faciale a été 
                     mise en place pour qu’elle puisse reconnaître ses proches.
-                     <a href="FichierTelechargeable/Rapport-Finale_Don'tForget.pdf"
+                     <a href="fichierTelechargeable/Rapport-Finale_Don'tForget.pdf"
                     download="Rapport-Finale_Don'tForget.pdf">Télécharger le rapport</a></li><br />
 
                     <li>•	Réalisation sur le Framework back-end Symfony4 d'un blog avec base de données en architecture MVC, possédant 
@@ -120,7 +136,7 @@
                     commentaire en dessous.</li><br />
 					
 					<li>•	Création d’un globe terrestre à persistance rétinienne à LED <a 
-                    href="FichierTelechargeable/Projet_Tutoré_GlobeLED_SEVESTRE.pdf" download="Projet_Tutoré_GlobeLED_SEVESTRE.pdf">
+                    href="fichierTelechargeable/Projet_Tutoré_GlobeLED_SEVESTRE.pdf" download="Projet_Tutoré_GlobeLED_SEVESTRE.pdf">
                     Télécharger le rapport</a></li><br />
                 </ul>
             </div>
@@ -129,9 +145,10 @@
     </div>
 
     <br />
-    <button onclick="window.location.href='index.php'" type="submit" class="btn btn-secondary" 
+    <button onclick="window.location.href='index.html'" type="submit" class="btn btn-secondary" 
     style="background-color:#333; margin-left: 47%;">Retour</button>
 
 </div>
 <script type="text/javascript" src="js/onglets.js"></script>
+<script type="text/javascript" src="js/animScroll.js"></script>
 <?php require('pied.php'); ?>

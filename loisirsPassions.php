@@ -33,11 +33,18 @@
                 entre autres de penser à autre chose qu'à l'informatique. Comme dit le dicton, bien dans 
                 son corps, bien dans sa tête.</p>
 
-                <p>•	Je suis aussi un anciennement pratiquant de <b>handball</b> en club universitaire, que j'ai réalisé durant mes deux années
+                <p>•	Je suis aussi un ancien pratiquant de <b>handball</b> et <b>volley-ball</b> en club universitaire, que j'ai pratiqué durant mes deux années
                     à la faculté d'Angers.</p>
 
                 <p>•	Enfin, je suis ancien pratiquant en club communal du <b>VTT</b>. Cette passion ne m'a jamais quitté puisque dès que je pars 
                     en vacances, je l'emnène avec moi.</p>
+                <table class="image_sport">
+                    <tr>
+                        <td><img src="images/VTT.png" alt="image d'un VTT"></td>
+                        <td><img src="images/handball.png" alt="image d'une balle de handball"></td>
+                        <td><img src="images/dev_couche.png" alt="image d'une barre de développé couché"></td>
+                    </tr>
+                </table>
             </div>
 
 
@@ -53,7 +60,7 @@
     </div>
 
     <br />
-    <button onclick="window.location.href='index.php'" type="submit" class="btn btn-secondary" 
+    <button onclick="window.location.href='index.html'" type="submit" class="btn btn-secondary" 
     style="background-color:#333; margin-left: 47%;">Retour</button>
 
 </div>

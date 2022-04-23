@@ -67,7 +67,10 @@
 /* DANS CE FICHIER, POSSIBILITE DE CHANGER LE THEME CSS DE
   BOOTSTRAP POUR LE FICHIER App.vue*/
   /*FICHIER TYPE POUR RETROUVER LES BALISE DE BASE, CSS/Bootstrap.css*/
-  
+  .navbar-toggler{
+    margin-top: 20px !important;
+    width: 50px;
+  }
   .navbar-toggler-icon {
     display: inline-block;
     width: 1.5em;
@@ -80,11 +83,6 @@
     margin-left: -8px;
     margin-top: 3px;
   }
-
-  .navbar-toggler{
-    margin-top: 20px !important;
-    width: 50px;
-  }
   
   .navbarwrap .container{
     margin-top: 5px;
@@ -95,9 +93,15 @@
     margin-top: -50px !important;
     position: fixed;
     width: 100%;
-    
     z-index: 4;
   }
+  #bg-primary {
+    background-color: #444;
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari et Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
   
   #navbarNavDropdown{
     margin-top: 20px !important;
@@ -122,14 +126,6 @@
   .nav-transparent {
       background-color: transparent !important;
       display: none !important;
-  }
-  
-  .bg-primary {
-      background-color: #444 !important;
-      animation: fadein 2s;
-      -moz-animation: fadein 2s; /* Firefox */
-      -webkit-animation: fadein 2s; /* Safari et Chrome */
-      -o-animation: fadein 2s; /* Opera */
   }
 
   @keyframes fadein {
@@ -184,12 +180,16 @@
     z-index: 4;
   }
   
-  .bg-dark {
-    background-color: #222 !important;
+  #bg-dark {
+    background-color: #222;
   }
   
-  .text-warning {
-    color: rgb(245,208,72) !important;
+  #text-warning {
+    color: rgb(245,208,72);
+  }
+
+  .text-justify{
+    text-align: justify;
   }
   
   button i {
@@ -224,7 +224,7 @@
 
   @media screen and (max-width: 1000px){
     #navbarNavDropdown{
-        margin-top: 0px !important;
+        margin-top: 0px;
       }
       #navbarTitre{
         margin-top: 4%;

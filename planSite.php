@@ -8,13 +8,13 @@
     <h1>Plan du site</h1>
 
         <p>
-			<h4 class="TitrePlanSite"><a href="index.php" style="color: #343a40;">Accueil</a></h4>
+			<h4 class="TitrePlanSite"><a href="index.html" style="color: #343a40;">Accueil</a></h4>
 		</p>
 		<p>
 			<h4 class="TitrePlanSite"><a href="contact.php" style="color: #343a40;">Me contacter</a></h4>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a href="index.php#/arbre" style="color: #343a40;">Mon profil</a>
+			<h4 class="TitrePlanSite"><a href="index.html#/arbre" style="color: #343a40;">Mon profil</a>
 		</p>
 		<p>
 			<h4 class="TitrePlanSite"><a style="color: #343a40;">Mes expériences</a></h4>
@@ -50,7 +50,7 @@
 		</p>
 		
 		<br />
-        <button onclick="window.location.href='/index.php'" type="submit" class="btn btn-secondary" 
+        <button onclick="window.location.href='/index.html'" type="submit" class="btn btn-secondary" 
 		style="background-color:#333; text-align: center; margin-left: 46%;">Retour</button>
 
 	</div>

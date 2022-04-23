@@ -138,7 +138,7 @@
         </ul>
 
         <br />
-        <button onclick="window.location.href='index.php'" type="submit" class="btn btn-secondary" 
+        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-secondary" 
         style="background-color:#333; margin-left: 47%;">Retour</button>
 
 </div>

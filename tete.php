@@ -5,8 +5,7 @@
 		<meta http-equiv="X-UA-Ccomptable" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<link rel="icon" type="image/PNG" href="images/icone.PNG" />
-    	<title>CV web M. Sevestre</title>
+    	<title>CV web J-B Sevestre</title>
 		
 		<link  rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
 		<link  rel="stylesheet" type="text/css" href="css/navbar.css" />
@@ -99,4 +98,4 @@
     <br />
     <!-- Fin NavBar Bootstrap  -->
 
-	<script src="js/controller.js"></script>
+	<script type="text/javascript" src="js/controller.js"></script>

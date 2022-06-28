@@ -1,3 +1,5 @@
+<a id=""></a>
+
 <?php require('tete.php'); ?>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
@@ -8,16 +10,20 @@
     <h1>Plan du site</h1>
 
         <p>
-			<h4 class="TitrePlanSite"><a href="index.html" style="color: #343a40;">Accueil</a></h4>
+			<h4 class="TitrePlanSite"><a href="index.html">Accueil</a></h4>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a href="contact.php" style="color: #343a40;">Me contacter</a></h4>
+			<h4 class="TitrePlanSite"><a href="contact.php">Me contacter</a></h4>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a href="index.html#/arbre" style="color: #343a40;">Mon profil</a>
+			<h4 class="TitrePlanSite"><a>Mon profil</a></h4>
+				<ul class="PlanSiteSub">
+					<li><a href="monProfil.php">Mon profil</a></li>
+					<li><a href="monProfil.php#cv">Mon CV</a></li>
+				</ul>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a style="color: #343a40;">Mes expériences</a></h4>
+			<h4 class="TitrePlanSite"><a>Mes expériences</a></h4>
 				<ul class="PlanSiteSub">
 					<li><a href="experiences.php">Professionnelle</a></li>
 					<li><a href="experiences.php#stage">Stages</a></li>
@@ -25,14 +31,14 @@
 				</ul>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a style="color: #343a40;">Compétences informatiques</a></h4>
+			<h4 class="TitrePlanSite"><a>Compétences informatiques</a></h4>
 				<ul class="PlanSiteSub">
 					<li><a href="competenceInfo.php">Environement et logiciel</a></li>
 					<li><a href="competenceInfo.php#prog">Programmation</a></li>
 				</ul>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a style="color: #343a40;">Mes formations</a></h4>
+			<h4 class="TitrePlanSite"><a>Mes formations</a></h4>
 				<ul class="PlanSiteSub">
 					<li><a href="formations.php">Master MIASHS</a></li>
 					<li><a href="formations.php">Licence TNAP</a></li>
@@ -41,7 +47,7 @@
 				</ul>
 		</p>
 		<p>
-			<h4 class="TitrePlanSite"><a style="color: #343a40;">Loisirs et passions</a></h4>
+			<h4 class="TitrePlanSite"><a>Loisirs et passions</a></h4>
 				<ul class="PlanSiteSub">
 					<li><a href="loisirsPassions.php">Bénévolat</a></li>
 					<li><a href="loisirsPassions.php#sport">Sport</a></li>
@@ -50,8 +56,9 @@
 		</p>
 		
 		<br />
-        <button onclick="window.location.href='/index.html'" type="submit" class="btn btn-secondary" 
-		style="background-color:#333; text-align: center; margin-left: 46%;">Retour</button>
+		<div class="d-grid gap-2 col-2 mx-auto boutonContact">
+        	<button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+    	</div>
 
 	</div>
 

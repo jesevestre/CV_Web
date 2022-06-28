@@ -107,14 +107,14 @@
     margin-top: 20px !important;
   }
   #navBarMenu:hover{
-    color: rgb(245,208,72) !important;
+    color: #ADFF2F !important;
   }
 
   #navbarTitre{
     margin-top: 2%;
   }
   #navbarTitreSpan:hover{
-    color: rgb(245,208,72);
+    color: #ADFF2F;
   }
 
 
@@ -176,7 +176,7 @@
 
   .dropdown-item:hover {
     font-weight: bold;
-    color: rgb(245,208,72);
+    color: #32CD32;
     z-index: 4;
   }
   
@@ -185,7 +185,7 @@
   }
   
   #text-warning {
-    color: rgb(245,208,72);
+    color: #ADFF2F;
   }
 
   .text-justify{
@@ -195,6 +195,7 @@
   button i {
     color: #333;
   }
+
 
   /* Accessibilité tablette/mobile */
   @media screen and (max-width: 400px){

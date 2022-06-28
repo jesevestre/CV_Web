@@ -23,10 +23,11 @@
                         de l’informatique. Cette évolution m'a enrichi professionnellement au niveau de l'adaptabilité, 
                         ainsi que personnellement, par l'acquisition de qualités telles que la rigueur et le sens du relationnel.</li>
 
-                    <li>•	Mobile et disponible, je suis aujourd'hui prêt à me mobiliser pour réussir dans les nouveaux 
-                        défis qui me seront confiés. Améliorer, développer et faire progresser sont les piliers de mes formations 
+                    <li>•	Mobile et disponible, je suis prêt à me mobiliser pour réussir dans les nouveaux 
+                        défis qui me seront confiés. Développer, améliorer et faire progresser sont les piliers de mes formations 
                         et de mes passions pour l'informatique accessible. J’ai à cœur de façon rigoureuse, de concevoir des 
-                        solutions principalement dans le  <strong>domaine du web/webmaster </strong>, ou plus généralement <strong>d’applications informatiques</strong>.</li>
+                        solutions dans le<strong> domaine du web</strong>, que ce soit pour des<strong> applications de gestion, 
+                        sites vitrines et sites commerciaux</strong> en tant que webmaster ou non.</li>
 
                     <br />
 
@@ -52,10 +53,10 @@
     </div>
 
     <br />
-    <button onclick="window.location.href='index.html'" type="submit" class="btn btn-secondary" 
-    style="background-color:#333; margin-left: 47%;">Retour</button>
+    <div class="d-grid gap-2 col-2 mx-auto boutonContact">
+        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+    </div>
 
 </div>
 <script type="text/javascript" src="js/onglets.js"></script>
-<script type="text/javascript" src="js/animScroll.js"></script>
 <?php require('pied.php'); ?>

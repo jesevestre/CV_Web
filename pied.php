@@ -1,10 +1,10 @@
 		<!-- Footer Bootstrap -->
 		<link  rel="stylesheet" type="text/css" href="css/style.css" />
 
-		<footer class="text-white pt-1 pb-0" id="bg-dark" style="margin-top: 50px; border-radius: 10px;">
+		<footer class="text-white pt-1 pb-0 piedPage" id="bg-dark">
 			<div class="container text-center text-md-left">
 
-				<div class="row text-center text-md-left">
+				<div class="row text-center text-md-left" style="margin-top: -20px;">
 
 					<div class="col-md-4 col-lg-4 col-xl-3 mx-auto mt-3">
 						<h5 class="text-uppercase mb-4 font-weight-bold" id="text-warning">Présentation</h5>
@@ -15,26 +15,26 @@
 							 <i class="fab fa-html5 fa-lg"></i> 
 							 <i class="fab fa-css3-alt fa-lg"></i> 
 							 <i class="fab fa-bootstrap fa-lg"></i>
-							 <a href="mentionLegales.php fa-lg" class="copyright"><img width=80; src="/images/copyright.jpg" alt="Lien pour le copyright"></a></p>
+							 <a href="mentionLegales.php" class="copyright"><img width=80; src="/images/copyright.jpg" alt="Lien pour le copyright"></a></p>
 						</div>
 
 						<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
 							<a href="planSite.php" style="text-decoration: none;"><h5 class="text-uppercase mb-4 font-weight-bold" id="text-warning">
 							Plan du site</h5></a>
 							<p>
-								<a href="monProfil.php" class="text-white" style="text-decoration: none;">Mon profil</a>
+								<a href="monProfil.php" class="text-white planSite">Mon profil</a>
 							</p>
 							<p>
-								<a href="experiences.php" class="text-white" style="text-decoration: none;">Mes expériences</a>
+								<a href="experiences.php" class="text-white planSite">Mes expériences</a>
 							</p>
 							<p>
-								<a href="competenceInfo.php" class="text-white" style="text-decoration: none;">Compétences informatiques</a>
+								<a href="competenceInfo.php" class="text-white planSite">Compétences informatiques</a>
 							</p>
 							<p>
-								<a href="formations.php" class="text-white" style="text-decoration: none;">Mes formations</a>
+								<a href="formations.php" class="text-white planSite">Mes formations</a>
 							</p>
 							<p>
-								<a href="loisirsPassions.php" class="text-white" style="text-decoration: none;">Loisirs et passions</a>
+								<a href="loisirsPassions.php" class="text-white planSite">Loisirs et passions</a>
 							</p>
 						</div>
 
@@ -62,11 +62,11 @@
 						</p>
 					</div>
 				</div>
-
+				<!--
 				<hr class="mb-4">
 				<div class="row align-items-center">
 						
-				</div>
+				</div>-->
 					
 			</div>
 		</footer>

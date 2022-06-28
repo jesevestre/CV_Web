@@ -1,7 +1,10 @@
 <a id="#"></a>
 
 <?php require('tete.php'); ?>
-<link  rel="stylesheet" type="text/css" href="css/style.css" />
+<!-- Pour faire la barre de Scroll adaptative, à ajouter aux pages en fonction des besoins -->
+<div class="scroll-indicator"></div>
+
+<!--<link  rel="stylesheet" type="text/css" href="css/style.css" />-->
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">
 <br />
@@ -138,9 +141,11 @@
         </ul>
 
         <br />
-        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-secondary" 
-        style="background-color:#333; margin-left: 47%;">Retour</button>
+        <div class="d-grid gap-2 col-2 mx-auto boutonContact">
+            <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+        </div>
 
 </div>
 
+<script type="text/javascript" src="js/controller.js"></script>
 <?php require('pied.php'); ?>

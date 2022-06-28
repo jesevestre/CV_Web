@@ -34,23 +34,23 @@
 
 	<div class="contact-form">
 		<form id="contact-form" method="POST" action="#" >
-			<i class="fas fa-2x  fa-user"></i>
+			<i class="fas fa-2x  fa-user iconeContact"></i>
 			<input type="text" name="name" class="form-control" placeholder="Votre prénom et nom" required />
 			<br />
 
-			<i class="fas fa-2x fa-envelope"></i>
+			<i class="fas fa-2x fa-envelope iconeContact"></i>
 			<input type="email" name="email" class="form-control" placeholder="Votre Email de réponse" required />
 			<br />
 
-			<i class="fas fa-2x fa-folder-open"></i>
+			<i class="fas fa-2x fa-folder-open iconeContact"></i>
 			<input type="text" name="subject" class="form-control" placeholder="Nom du sujet" required />
 			<br />
 
-			<i class="fas fa-2x fa-file-signature"></i>
+			<i class="fas fa-2x fa-file-signature iconeContact"></i>
 			<textarea name="message" class="form-control" style="height: 100px;" placeholder="Votre message" ></textarea>
 			<br />
 			
-			<div class="d-grid gap-2 col-2 mx-auto" style="padding-top: -20px;">
+			<div class="d-grid gap-2 col-2 mx-auto boutonContact">
 				<input type="submit" class="btn btn-primary" value="Envoyer" />
 			</div>
 		</form>

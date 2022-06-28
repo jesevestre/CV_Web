@@ -2,8 +2,10 @@
 <a id="projets"></a>
 
 <?php require('tete.php'); ?>
+<!-- Pour faire la barre de Scroll adaptative, à ajouter aux pages en fonction des besoins -->
+<div class="scroll-indicator"></div>
 
-<!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
+<!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css -->
 <div class="container">
 <br />
 <div class="tel-400px"></div>
@@ -21,14 +23,26 @@
 
             <div class="tab-content active" id="professionnelles"><p><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022</p>
                 <ul>
-                    <li>•   Maintien de 5 applications web dans les domaines du recrutement RH, 
-                        suivi financier, gestion des projets et gestion des contrats chercheurs.</li>
+                    <li>•   Développement de deux applications web précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
 
-                    <li>•	Réaliser l’évolution de ces applications en prenant en compte les 
-                        besoins des utilisateurs et anticiper leurs attentes.</li>
+                    <li>•	L'intérêt de la première application est de pouvoir suivre les réponses des projets déposés par les chercheurs aux appels 
+                        à proposition des différents organismes (Union-Européenne, ANR, Région etc), puis de pouvoir visualiser l'évolution des projets 
+                        retenus. Un suivi détaillé de l'évolution des demandes se fait par l'utilisation de workflow (code état) jusqu'à la signature 
+                        ou non du projet qui bascule en contrat.</li>
+
+                    <li>•	La deuxième application est utilisée pour la gestion financière des contrats de recherche. Leur nombre croissant 
+                        a amené mon institut de rattachement à réfléchir à un système global de suivi des contrats de recherche. Ceci dans 
+                        l'objectif de suivre et coordonner les dépenses inhérentes des contrats et les rapprocher d'un budget préalablement défini.
+                        Ce système doit répondre à deux impératifs importants : <br />
+                        <span class="espacement"></span> 1) Améliorer le dialogue entre porteurs de projet, service et groupe administratif de l’institut, par l’utilisation 
+                        d’informations communes. <br />
+                        <span class="espacement"></span>2) Mettre en place une mutualisation intelligente, souple et partagée des overheads générés par ces contrats afin 
+                        d’augmenter la productivité et la confiance des utilisateurs dans les données présentées.
+                    </li>
 
                     <li>•	Participation de la migration vers un nouveau serveur en version 
-                        PHP 7.4 et APACHE 2.0 avec un informaticien réseau et administrateur système.</li>
+                        PHP 7.4 et APACHE 2.0 avec un informaticien réseau et administrateur système 
+                        ainsi que le passage de l'encodage en ISO vers de l'UTF8.</li>
                 </ul>
                 
                 <p><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</p>
@@ -82,7 +96,7 @@
                 </ul>
                 <br />
 
-                <div class="slide-scroll">
+                <div class="reveal">
                     <p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)</b> Avril - Juillet 2017 (3 mois)</p>
                     <ul class="decalleLI">
                         <li>•	Ma mission était la réalisation d’une étude visant la réduction du temps de transfert des données lors 
@@ -97,7 +111,7 @@
                 </div>
                 <br />
 
-                <div class="slide-scroll2">
+                <div class="reveal">
                     <p><b>Stagiaire en robotique, Université Glyndwr, Pays de Galles</b> Juillet 2015 (4 semaines)</p>
                     <ul class="decalleLI">
                         <li>•	Perfectionnement de l’anglais et présentation en anglais des performances du robot Nao devant 
@@ -145,10 +159,12 @@
     </div>
 
     <br />
-    <button onclick="window.location.href='index.html'" type="submit" class="btn btn-secondary" 
-    style="background-color:#333; margin-left: 47%;">Retour</button>
-
+    <div class="d-grid gap-2 col-2 mx-auto boutonContact">
+        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+    </div>
+    
 </div>
+<script type="text/javascript" src="js/apparition.js"></script>
+<script type="text/javascript" src="js/scroll.js"></script>
 <script type="text/javascript" src="js/onglets.js"></script>
-<script type="text/javascript" src="js/animScroll.js"></script>
 <?php require('pied.php'); ?>

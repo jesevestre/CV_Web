@@ -72,7 +72,7 @@
                         de rendre paramétrable par les utilisateurs, ces retours usines.</li>
 
                     <li>•	Ce travail est accompagné d'une partie accessibilité pour personne à déficience 
-                        visuelle et à la mise en place de l’interface en multilingue.</li>
+                        visuelle et à la mise en place de l’interface en multilangue.</li>
 
                     <li>•	Ce stage m’a permis la gestion en large autonomie d’un projet complet avec la 
                         dimension internationale utilisant les langages dont je suis à présent expérimenté 
@@ -123,36 +123,74 @@
 
 
             <div class="tab-content" id="projets">
+                <p><b>Réalisation d’un site vitrine pour un ami se lançant dans le coaching sportif</b></p>
                 <ul class="decalleLI">
-                    <li>•	Réalisation d’un site internet vitrine pour un ami se lançant dans le coaching sportif et ayant 
-                    besoin de visibilité. Site web réalisé avec le Framwork VueJS-2 contenant présentement un carrousel avec un zoom image, 
-                    un système d'onglet permettant d'afficher les informations hiérarchiquement, un système de routeur avec des 
-                    animations entre les vues, une boutique en ligne permettant de vendre des produits sportifs, une page de contact, 
-                    et enfin un en-tête/pied de page avec Bootstrap5 : <a href="http://m.training.free.fr/" target="blank">
-                    <span class="text-primary">m.training.free.fr</span></a></li><br />
-
-                    <li>•	Création d’un site internet pour l'association équestre de l'Ecole Polytechnique, comprenant 
-                    une partie actualité, ainsi qu'une partie gestion des cours. Ce site web est aussi doté d'une partie
-                    assez complète concernant l'accessibilité visuelle. Ce fu mon premier déploiement
-                    sur un serveur privé : <a href="http://cempolytechnique.free.fr/" target="blank">
-                    <span class="text-primary">cempolytechnique.free.fr</span></a></li><br />
-
-                    <li>•	Développement d’une application Android pour les personnes atteintes de la maladie d’Alzheimer 
-                    comprenant une montre connectée et une application aidant. L'objectif de ce projet est que la personne âgée
-                    puisse se repérer et être guidées dans l’espace public. De plus un outil de reconnaissance faciale a été 
-                    mise en place pour qu’elle puisse reconnaître ses proches.
-                     <a href="fichierTelechargeable/Rapport-Finale_Don'tForget.pdf"
-                    download="Rapport-Finale_Don'tForget.pdf">Télécharger le rapport</a></li><br />
-
-                    <li>•	Réalisation sur le Framework back-end Symfony4 d'un blog avec base de données en architecture MVC, possédant 
-                    différents niveaux d'autorisation (administrateur, modérateur, éditeur et utilisateur) possédant un espace personnel sécurisé.
-                    Ce blog comprend la possibilité d'une gestion complète des articles avec différentes catégories disponibles, et un espace 
-                    commentaire en dessous.</li><br />
-					
-					<li>•	Création d’un globe terrestre à persistance rétinienne à LED <a 
-                    href="fichierTelechargeable/Projet_Tutoré_GlobeLED_SEVESTRE.pdf" download="Projet_Tutoré_GlobeLED_SEVESTRE.pdf">
-                    Télécharger le rapport</a></li><br />
+                    <li>•	Réalisation d’un site internet pour une personne se lançant dans le coaching sportif et ayant 
+                        besoin de visibilité. Site web réalisé avec le Framwork VueJS-2 contenant présentement un carrousel avec un zoom image, 
+                        un système d'onglet permettant d'afficher les informations hiérarchiquement, un système de routeur avec des 
+                        animations entre les vues, une boutique en ligne permettant de vendre des produits sportifs, une page de contact, 
+                        et enfin un en-tête/pied de page avec Bootstrap5 : <a href="http://m.training.free.fr/" target="blank">
+                        <span class="text-primary">m.training.free.fr</span></a>
+                    </li>
                 </ul>
+                <br />
+
+                <p><b>Réalisation d'un blog avec base de données en architecture MVC</b></p>
+                <ul class="decalleLI">
+                    <li>•	Réalisation sur le Framework back-end Symfony4 d'un blog avec base de données en architecture MVC, possédant 
+                        différents niveaux d'autorisation (administrateur, modérateur, éditeur et utilisateur) possédant un espace personnel sécurisé.
+                        Ce blog comprend la possibilité d'une gestion complète des articles avec différentes catégories disponibles, et un espace 
+                        commentaire en dessous.
+                    </li>
+                </ul>
+                <br />
+
+                <p><b>Réalisation d'un CV web</b></p>
+                <ul class="decalleLI">
+                    <li>•	Réalisation d’un site internet vitrine pour développer davantage en profondeur ma personnalité, 
+                        mes expériences, mes compétences, mes formations, mes loisirs et passions. Ce site web est réalisé avec 
+                        en HTML/CSS et JavaScript avec la librairie GSAP et Bootstrap5. Ce site web est accessible mobile, 
+                        tableau et personne à déficience visuelle <a href="http://jsevestre02.free.fr/" targer="blanck">
+                        <span class="text-primary">jsevestre02.free.fr</span></a>
+                    </li>
+                </ul>
+                <br />
+
+                <div class="reveal">
+                    <p><b>Développement d’une application Android pour les personnes atteintes de la maladie d’Alzheimer</b></p>
+                    <ul class="decalleLI">
+                        <li>•	Développement d’une application Android pour les personnes atteintes de la maladie d’Alzheimer 
+                            comprenant une montre connectée et une application aidant. L'objectif de ce projet est que la personne âgée
+                            puisse se repérer et être guidée dans l’espace public. De plus un outil de reconnaissance faciale a été 
+                            mis en place pour qu’elle puisse reconnaître ses proches. <a href="fichierTelechargeable/Rapport-Finale_Don'tForget.pdf"
+                            download="Rapport-Finale_Don'tForget.pdf">Télécharger le rapport</a>
+                        </li>
+                    </ul>dex
+                </div>
+                <br />
+
+                <div class="reveal">
+                    <p><b>Création d’un site internet pour l'association équestre de l'Ecole Polytechnique</b></p>
+                    <ul class="decalleLI">
+                        <li>•	Création d’un site internet pour l'association équestre de l'Ecole Polytechnique, comprenant 
+                            une partie actualité, ainsi qu'une partie gestion des cours. Ce site web est aussi doté d'une partie
+                            assez complète concernant l'accessibilité visuelle. Ce fu mon premier déploiement
+                            sur un serveur privé : <a href="http://cempolytechnique.free.fr/" target="blank">
+                            <span class="text-primary">cempolytechnique.free.fr</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <br />
+
+                <div class="reveal">
+                    <p><b>Création d’un globe terrestre à persistance rétinienne</b></p>
+                    <ul class="decalleLI">					
+                        <li>•	Création d’un globe terrestre à persistance rétinienne à LED <a 
+                            href="fichierTelechargeable/Projet_Tutoré_GlobeLED_SEVESTRE.pdf" download="Projet_Tutoré_GlobeLED_SEVESTRE.pdf">
+                            Télécharger le rapport</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
             
         </div>
@@ -160,7 +198,7 @@
 
     <br />
     <div class="d-grid gap-2 col-2 mx-auto boutonContact">
-        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+        <button onclick="window.location.href='index.php'" type="submit" class="btn btn-primary">Retour</button>
     </div>
     
 </div>

@@ -24,10 +24,10 @@
                         ainsi que personnellement, par l'acquisition de qualités telles que la rigueur et le sens du relationnel.</li>
 
                     <li>•	Mobile et disponible, je suis prêt à me mobiliser pour réussir dans les nouveaux 
-                        défis qui me seront confiés. Développer, améliorer et faire progresser sont les piliers de mes formations 
-                        et de mes passions pour l'informatique accessible. J’ai à cœur de façon rigoureuse, de concevoir des 
-                        solutions dans le<strong> domaine du web</strong>, que ce soit pour des<strong> applications de gestion, 
-                        sites vitrines et sites commerciaux</strong> en tant que webmaster ou non.</li>
+                        défis qui me seront confiés. Développer, améliorer et faire progresser sont les maîtres mots qui me motives. 
+                        J’ai à cœur de façon rigoureuse, de concevoir des solutions dans le<strong> domaine du web</strong>, que ce 
+                        soit pour des<strong> applications de gestion, sites vitrines et sites commerciaux</strong> en tant que 
+                        webmaster ou non.</li>
 
                     <br />
 
@@ -54,7 +54,7 @@
 
     <br />
     <div class="d-grid gap-2 col-2 mx-auto boutonContact">
-        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+        <button onclick="window.location.href='index.php'" type="submit" class="btn btn-primary">Retour</button>
     </div>
 
 </div>

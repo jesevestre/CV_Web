@@ -10,7 +10,7 @@
     <h1>Plan du site</h1>
 
         <p>
-			<h4 class="TitrePlanSite"><a href="index.html">Accueil</a></h4>
+			<h4 class="TitrePlanSite"><a href="index.php">Accueil</a></h4>
 		</p>
 		<p>
 			<h4 class="TitrePlanSite"><a href="contact.php">Me contacter</a></h4>
@@ -57,7 +57,7 @@
 		
 		<br />
 		<div class="d-grid gap-2 col-2 mx-auto boutonContact">
-        	<button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+        	<button onclick="window.location.href='index.php'" type="submit" class="btn btn-primary">Retour</button>
     	</div>
 
 	</div>

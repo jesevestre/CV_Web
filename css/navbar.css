@@ -45,7 +45,7 @@
 
     .navbar-toggler-inner{
         transition: 0.2s;
-        transform: rotate(45deg); // 45+360
+        transform: rotate(45deg); /* 45+360 */
     }
     .navbar-toggler-inner::before{
         top: 0;
@@ -107,14 +107,14 @@
     margin-top: 20px !important;
   }
   #navBarMenu:hover{
-    color: #ADFF2F !important;
+    color: #32CD32 !important;
   }
 
   #navbarTitre{
     margin-top: 2%;
   }
   #navbarTitreSpan:hover{
-    color: #ADFF2F;
+    color: #32CD32;
   }
 
 
@@ -185,7 +185,7 @@
   }
   
   #text-warning {
-    color: #ADFF2F;
+    color: #32CD32;
   }
 
   .text-justify{

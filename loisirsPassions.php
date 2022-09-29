@@ -49,13 +49,16 @@
                 </table>
             </div>
 
-
             <div class="tab-content" id="autre">
                 <p>•	Je suis passionné de <b>science-fiction</b>. J'adore me plonger dans de nouveaux univers qui font travailler l'imagination.</p>
 
                 <p>•	Je m'intéresse aussi beaucoup aux nouvelles technologies. En ce moment, je me perfectionne au langage <b>JavaScript</b> et 
-                au Framwork <b>VueJS-2</b> car j'ai l'ambition de devenir développeur full-stack. Je joue aussi de temps en temps à Cities-Skylines 
-                qui est un jeu de création et de gestion de ville très complet.</p>
+                au Framwork <b>VueJS-2</b> car j'ai l'ambition de devenir développeur full-stack (front-end, back-end et gestion de base de données).<p>
+                    
+                <p>•	Je joue aussi de temps en temps à Cities-Skylines, Transport-Fever et Factorio qui sont des jeux de création et de gestion de ville.</p>
+
+                <p>•	J'ai passé récemment le permis bateau côtier. A présent quand j'en ai l'occasion, je pars en balade avec des amis sur les cotes de 
+                    la mer méditérranée.</p>
             </div>
 
         </div>
@@ -63,7 +66,7 @@
 
     <br />
     <div class="d-grid gap-2 col-2 mx-auto boutonContact">
-        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+        <button onclick="window.location.href='index.php'" type="submit" class="btn btn-primary">Retour</button>
     </div>
 
 </div>

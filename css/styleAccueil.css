@@ -66,14 +66,14 @@ h1 span{
 }
 
 .l1{
-    width: 250px;
+    width: 300px;
     height: 3px;
     background: #F1F1F1;
     border-radius: 5px;
 }
 
 .l2{
-    width: 140px;
+    width: 200px;
     height: 3px;
     background: #F1F1F1;
     border-radius: 5px;
@@ -93,7 +93,7 @@ h1 span{
     list-style-type: none;
     position: absolute;
     right: 3.3%;
-    top: 60%;
+    top: 55%;
     transform: translateY(-50%);
     display: flex;
     justify-content: center;
@@ -120,6 +120,60 @@ h1 span{
     height: 40px;
 }
 
+ /* Autorisation des cookies */
+.banniere{
+    border-top: rgb(216, 30, 30) 5px solid;
+    background: rgba(0, 0, 0, 0.911);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-family: "Signika Negative", sans-serif;
+    transform: translateY(100%);
+    animation: slide-in 2s 5s ease-out forwards;
+}
+@keyframes slide-in {
+    100% {
+        transform: translateY(0%);
+    }
+}
+
+.text-banniere p{
+    font-size: large;
+}
+
+.button-banniere-vert{
+    margin-top: 20px;
+}
+
+.button-banniere-rouge{
+    margin-top: 20px;
+}
+
+.button-banniere-vert a{
+    padding: 10px;
+    margin-right: 5px;
+    border-radius: 7px;
+    color: white;
+    text-decoration: none;
+    border: solid 1px green;
+    background: green;
+}
+
+.button-banniere-rouge a{
+    padding: 10px;
+    margin-right: 25px;
+    border-radius: 7px;
+    color: white;
+    text-decoration: none;
+    border: solid 1px rgb(216, 30, 30);
+    background: rgb(216, 30, 30);
+}
+
 @media screen and (max-width: 1585px) {
     .hidden{
         color: transparent;
@@ -137,6 +191,12 @@ h1 span{
         font-size: 80px;
         color: #F1F1F1;
         font-family: "Abril fatface", sans-serif;
+    }
+    .button-banniere{
+        margin-left: 10%;
+    }
+    .button-banniere a{
+        margin-left: -50%;
     }
 }
 
@@ -168,13 +228,25 @@ h1 span{
         color: #F1F1F1;
         font-family: "Abril fatface", sans-serif;
     }
+    .invisible-banniere-text{
+        display: none;
+    }
 }
 
 @media screen and (max-width: 535px) {
+    .medias{
+        top: 60%;
+    }
     .container-btns{
         position: relative;
         top: -50px;
         margin-right: 50px;
+    }
+    .invisible-banniere-button{
+        display: none;
+    }
+    .button-banniere-vert a{
+        margin-right: 25px;
     }
     .btn-first{
         border: 2px solid #F1F1F1;
@@ -187,9 +259,25 @@ h1 span{
         cursor: pointer;
         font-weight: bold;
     }
+    .l1{
+        width: 150px;
+        height: 3px;
+        background: #F1F1F1;
+        border-radius: 5px;
+    }
+    
+    .l2{
+        width: 80px;
+        height: 3px;
+        background: #F1F1F1;
+        border-radius: 5px;
+        position: relative;
+        top: 20px;
+    }
 }
 
 @media screen and (max-width: 300px) {
+    
     .l1{
         width: 150px;
         height: 3px;

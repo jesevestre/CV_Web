@@ -142,7 +142,7 @@
 
         <br />
         <div class="d-grid gap-2 col-2 mx-auto boutonContact">
-            <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+            <button onclick="window.location.href='index.php'" type="submit" class="btn btn-primary">Retour</button>
         </div>
 
 </div>

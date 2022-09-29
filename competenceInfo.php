@@ -30,15 +30,14 @@
                     <li>•	Back-end Symfony4/5</li>
                 </ul>
 
-                <canvas id="graph" style="display: block;
-    margin-left: auto;  width: 75%; margin-right: auto;">
+                <canvas id="graph" style="display: block; margin-left: auto;  width: 75%; margin-right: auto;">
                 Ce graphique n'est pas soutenu par votre navigateur.
                 </canvas>
             </div>
 
             <div class="tab-content" id="environnement">
                 <ul>
-                    <li>•	Environnement <b>LINUX</b> et <b>WINDOWS</b> maîtrisé</li>
+                    <li>•	Environnement <b>Linux/Unix</b> et <b>Windows</b> maîtrisé</li>
                     <li>•	Gestion de projet en méthodes <b>Agiles SCRUM</b> (Git/GitHub, Trello, Microsft Project)</li>
                     <li>•	Logiciel d’analyse et visualisation des données <b>POWER BI</b> (low-code)</li>
                     <li>•	Outils bureautiques (Word, Excel, PowerPoint, Project, Libre Office)</li>
@@ -55,7 +54,7 @@
 
     <br />
     <div class="d-grid gap-2 col-2 mx-auto boutonContact">
-        <button onclick="window.location.href='index.html'" type="submit" class="btn btn-primary">Retour</button>
+        <button onclick="window.location.href='index.php'" type="submit" class="btn btn-primary">Retour</button>
     </div>
 
 </div>

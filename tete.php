@@ -3,13 +3,15 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Ccomptable" content="ie=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    	<title>CV web J-B Sevestre</title>
+		<link rel="icon" type="image/PNG" href="images/icone.PNG" />
+    	<title>CV web Jean-Baptiste Sevestre</title>
 		
 		<link  rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
 		<link  rel="stylesheet" type="text/css" href="css/navbar.css" />
 		
+		<!-- Principalement pour le pied de page -->
 		<script src="https://kit.fontawesome.com/26d4a64054.js" crossorigin="anonymous"></script>
 
 		<!-- Pour menu Bootstrap -->
@@ -52,7 +54,7 @@
 		<div class="container">
 
 			<nav class="navbar navbar-expand-lg navbar-dark">
-				<a class="navbar-brand" id="navbarTitre" href="index.html"><i class="fas fa-address-book"></i>
+				<a class="navbar-brand" id="navbarTitre" href="index.php"><i class="fas fa-address-book"></i>
 				<span class="font-weight-bold" id="navbarTitreSpan">JEAN-BAPTISTE SEVESTRE</span></a>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" 
@@ -64,7 +66,7 @@
 				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.html"><strong>Accueil</strong><span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="index.php"><strong>Accueil</strong><span class="sr-only">(current)
 							</span></a>
 						</li>
 

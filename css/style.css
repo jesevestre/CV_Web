@@ -79,6 +79,7 @@ form i.fas {
 .planSite:hover{
     text-decoration: none;
     color: #32CD32 !important;
+    font-weight: bold;
 }
 
 .contact-form{

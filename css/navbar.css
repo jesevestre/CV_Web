@@ -106,15 +106,18 @@
   #navbarNavDropdown{
     margin-top: 20px !important;
   }
+  #navBarMenu{
+
+  }
   #navBarMenu:hover{
-    color: #32CD32 !important;
+    font-weight: 500 !important;
   }
 
   #navbarTitre{
     margin-top: 2%;
   }
   #navbarTitreSpan:hover{
-    color: #32CD32;
+
   }
 
 
@@ -176,7 +179,7 @@
 
   .dropdown-item:hover {
     font-weight: bold;
-    color: #32CD32;
+    color: #222;
     z-index: 4;
   }
   
@@ -185,7 +188,7 @@
   }
   
   #text-warning {
-    color: #32CD32;
+
   }
 
   .text-justify{

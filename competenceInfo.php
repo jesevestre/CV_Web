@@ -1,8 +1,6 @@
 <a id="environnement"></a>
 
 <?php require('tete.php'); ?>
-<!-- Pour faire la barre de Scroll adaptative, à ajouter aux pages en fonction des besoins--> 
-<div class="scroll-indicator"></div>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
 <div class="container">

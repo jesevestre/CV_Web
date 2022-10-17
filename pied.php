@@ -15,12 +15,13 @@
 							 <i class="fab fa-html5 fa-lg"></i> 
 							 <i class="fab fa-css3-alt fa-lg"></i> 
 							 <i class="fab fa-bootstrap fa-lg"></i>
-							 <a href="mentionLegales.php" class="copyright"><img width=80; src="/images/copyright.jpg" alt="Lien pour le copyright"></a></p>
+							 <a href="mentionLegales.php" class="copyright"><img width=80; src="/images/copyright.jpg" 
+							 alt="Lien pour le copyright"></a></p>
 						</div>
 
 						<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-							<a href="planSite.php" style="text-decoration: none;"><h5 class="text-uppercase mb-4 font-weight-bold" id="text-warning">
-							Plan du site</h5></a>
+							<a href="planSite.php" style="color: white;"><h5 class="text-uppercase mb-4 font-weight-bold" 
+							id="text-warning">Plan du site</h5></a>
 							<p>
 								<a href="monProfil.php" class="text-white planSite">Mon profil</a>
 							</p>

@@ -39,12 +39,13 @@ h1 span{
 
 .btn-first{
     border: 2px solid #F1F1F1;
+    border-radius: 8px;
     outline: none;
-    background: transparent;
+    background-color: var(--background-btn);
     font-size: 30px;
     padding: 20px;
     width: 250px;
-    color: #F1F1F1;
+    color: #FFF;
     cursor: pointer;
     font-weight: bold;
 }
@@ -68,14 +69,14 @@ h1 span{
 .l1{
     width: 300px;
     height: 3px;
-    background: #F1F1F1;
+    background: var(--trait);
     border-radius: 5px;
 }
 
 .l2{
     width: 200px;
-    height: 3px;
-    background: #F1F1F1;
+    height: 3.3px;
+    background: var(--trait);
     border-radius: 5px;
     position: relative;
     top: 20px;
@@ -99,6 +100,7 @@ h1 span{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: transparent;
 }
 
 .bulle{
@@ -120,10 +122,21 @@ h1 span{
     height: 40px;
 }
 
+/* Titre de l'accueil */
+span.titre{
+    background: var(--background);
+    color: #F1F1F1;
+}
+span.titreHidden{
+    background: var(--background);
+    color: #F1F1F1;
+}
+
+
  /* Autorisation des cookies */
 .banniere{
     border-top: rgb(216, 30, 30) 5px solid;
-    background: rgba(0, 0, 0, 0.911);
+    background: rgba(35, 35, 35, 0.970);
     position: fixed;
     bottom: 0;
     left: 0;
@@ -131,7 +144,7 @@ h1 span{
     color: white;
     display: flex;
     justify-content: center;
-    padding: 10px;
+    padding: 5px;
     font-family: "Signika Negative", sans-serif;
     transform: translateY(100%);
     animation: slide-in 2s 5s ease-out forwards;
@@ -174,14 +187,84 @@ h1 span{
     background: rgb(216, 30, 30);
 }
 
+/* Bouton pour switcher */
+.switch-mode{
+    position: absolute;
+    right: 14%;
+    top: 5%;
+    width: 80px;
+    cursor: pointer;
+}
+  
+input[type="checkbox"]{
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    -webkit-appearance: none;
+    border-radius: 50px;
+    border: 2px solid #222;
+    outline: none;
+    cursor: pointer;
+}
+
+input:checked[type="checkbox"]{
+    background-color: #222;
+}
+
+input[type="checkbox"]:before{
+    content: " ";
+    position: absolute;
+    width: 23.5px;
+    height: 23.5px;
+    background-color: grey;
+    border-radius: 15px;
+    top: 6.1px;
+    left: 8px;
+    transition-duration: 0.5s;
+    z-index: 100;
+}
+
+input:checked[type="checkbox"]:before{
+    background-color: grey;
+    left: 37.5px;
+    z-index: 100;
+}
+
+.soleil_fonce{
+    width: 17px;
+    position: absolute;
+    right: 27.5%;
+    top: 22%;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.soleil_clair{
+    width: 17px;
+    position: absolute;
+    right: 65%;
+    top: 22%;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.img:checked:before.soleil_clair{
+    display: none;
+}
+
+/* Accessiblité mobile/tablette/PC */
 @media screen and (max-width: 1585px) {
-    .hidden{
+    span.titreHidden{
         color: transparent;
+        background-color: transparent;
     }
     .container-btns{
         position: relative;
         top: -40px;
         margin-right: 100px;
+    }
+    .button-banniere-vert{
+        padding-right: 1%;
     }
 }
 
@@ -207,17 +290,9 @@ h1 span{
     }*/
     .l1{
         width: 200px;
-        height: 3px;
-        background: #F1F1F1;
-        border-radius: 5px;
     }
     .l2{
         width: 90px;
-        height: 3px;
-        background: #F1F1F1;
-        border-radius: 5px;
-        position: relative;
-        top: 20px;
     }
 }
 
@@ -230,6 +305,9 @@ h1 span{
     }
     .invisible-banniere-text{
         display: none;
+    }
+    .switch-mode{
+        display: none
     }
 }
 
@@ -246,12 +324,12 @@ h1 span{
         display: none;
     }
     .button-banniere-vert a{
-        margin-right: 25px;
+        margin-right: 5px;
     }
     .btn-first{
         border: 2px solid #F1F1F1;
         outline: none;
-        background: transparent;
+        background: rgba(60, 60, 60, 0.6);
         font-size: 15px;
         padding: 20px;
         width: 150px;
@@ -261,18 +339,10 @@ h1 span{
     }
     .l1{
         width: 150px;
-        height: 3px;
-        background: #F1F1F1;
-        border-radius: 5px;
     }
     
     .l2{
         width: 80px;
-        height: 3px;
-        background: #F1F1F1;
-        border-radius: 5px;
-        position: relative;
-        top: 20px;
     }
 }
 
@@ -280,16 +350,23 @@ h1 span{
     
     .l1{
         width: 150px;
-        height: 3px;
-        background: #F1F1F1;
-        border-radius: 5px;
     }
     .l2{
         width: 40px;
-        height: 3px;
-        background: #F1F1F1;
-        border-radius: 5px;
-        position: relative;
-        top: 20px;
     }
+}
+
+/* Les modes de constrastes */
+:root {
+    --background: transparent;
+    --background-btn: rgba(60, 60, 60, 0.5);
+    --trait: #F1F1F1;
+}
+
+/* En mode Clair ou Sombre en fonction de la config PC */
+@media (prefers-color-scheme: light){
+
+}
+
+@media (prefers-color-scheme: dark){
 }

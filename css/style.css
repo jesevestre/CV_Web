@@ -12,7 +12,6 @@ html, body {
     margin-left:20%; 
     text-align:center;
     font-weight: bold;
-    color: #32CD32;
 }
 
 .container {
@@ -32,10 +31,6 @@ html, body {
 .PlanSiteSub li{
     text-align: center;
     margin-left: -40px;
-}
-
-.PlanSiteSub li :hover{
-    color: #32CD32;
 }
 
 .maPhoto{
@@ -78,8 +73,7 @@ form i.fas {
 
 .planSite:hover{
     text-decoration: none;
-    color: #32CD32 !important;
-    font-weight: bold;
+    text-decoration: underline;
 }
 
 .contact-form{
@@ -91,14 +85,19 @@ form i.fas {
 }
 
 .btn-primary{
+    border: 2px solid rgba(60, 60, 60, 0.9) !important;
     padding-top: -20px;
-    background-color: #333;
-    border: #32CD32;
+    padding: 0.25rem 0.75rem;
+    height: 35px;
+    top: 50px !important;
+    background-color: rgba(60, 60, 60, 0.9);
+    font-weight: bold;
 }
 
 .btn-primary:hover{
-    background-color: #008000;
-    border: #333;
+    border: 2px solid;
+    background: #F1F1F1;
+    color: #333;
 }
 
 .py-2{
@@ -216,13 +215,20 @@ form i.fas {
     display: inline-block;
     background-color: #FFF;
     color: #0F1419;
+    font-weight: 500;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     padding: 10px 15px;
     text-decoration: none;
   }
+
+  .tabs a:hover{
+    background: #F1F1F1;
+    color: #333;
+  }
   
   .tabs .active a{
-    background-color: #32CD32;
+    color: #FFF;
+    background-color: rgba(60, 60, 60, 0.9);;
   }
   
   .tabs-content{
@@ -258,21 +264,6 @@ form i.fas {
 
 
 @media screen and (max-width: 950px) {
-
-    /* Indicateur de Scroll */
-    .scroll-indicator{
-        position: fixed;
-        z-index: 10;
-        top: 0px;
-        width: 100%;
-        height: 10px;
-        transform-origin: left;
-        transform: scaleX(0);
-        background: linear-gradient(to right, #feba3a, #32CD32);
-        /*background: linear-gradient(to right, #feba3a, #fc3434);*/
-        transition: transform 0.2s ease-out;
-    }
-
     .containerGeneral {
         height: 600px;
     

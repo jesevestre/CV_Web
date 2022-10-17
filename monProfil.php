@@ -30,9 +30,6 @@
                         webmaster ou non.</li>
 
                     <br />
-
-                    <li><a href="fichierTelechargeable/CV_Jean-Baptiste_SEVESTRE.pdf" download="CV_Jean-Baptiste_SEVESTRE.pdf">Télécharger mon CV en fichier PDF</a></li>
-
                 </ul>
             </div>
 

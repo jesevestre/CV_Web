@@ -3,10 +3,6 @@
         setcookie("accepte-cookie", "true", time() + 365*24*3600);
         header("Location:./");
         die();
-    } else if(isset($_GET["refuse-cookie"])){
-        setcookie("refuse-cookie", "false", time() + 365*24*3600);
-        header("Location:./");
-        die();
     }
 ?>
 
@@ -33,7 +29,7 @@
     </div>
 
     <div class="container-first">
-        <h1><span>JEAN-</span><span>BAPTISTE </span><span class="hidden">SEVESTRE</span></h1>
+        <h1><span class="titre">JEAN-</span><span class="titre">BAPTISTE </span><span class="titreHidden">SEVESTRE</span></h1>
 
         <div class="container-btns">
             <a href="monProfil.php"><button class="btn-first b1">Mon profil</button></a>
@@ -43,6 +39,13 @@
             <a href="loisirsPassions.php"><button class="btn-first b5">Loisirs</button></a>
         </div>
     </div>
+
+    <div class="switch-mode">
+        <img src="images/soleil_clair.png" class="soleil_clair" />
+        <img src="images/soleil_fonce.png" class="soleil_fonce" />
+        <input type="checkbox" id="click" onclick="dark()" />
+    </div>
+
 
     <a href="https://www.unjourdeplusaparis.com/paris-insolite/infos-insolites-tour-eiffel" target="_blank"><img src="images/drapeaufr.jpg" class="logo" alt="Lien vers l'histoire de la Tour Eiffel" /></a>
 
@@ -55,7 +58,6 @@
 
     <?php
     if(!isset($_COOKIE["accepte-cookie"])){
-        if(!isset($_COOKIE["refuse-cookie"])){
     ?>
         <div class="banniere">
             <div class="text-banniere">
@@ -63,17 +65,16 @@
             </div>
 
             <div class="button-banniere-vert">
-                <a href="?accepte-cookie">Accepté</a>
+                <a href="?accepte-cookie">Faire&nbsp;disparaître</a>
             </div>
-            <span class="invisible-banniere-button">
+            <!-- <span class="invisible-banniere-button">
                 <div class="button-banniere-rouge">
                     <a href="?refuse-cookie">Refusé</a>
                 </div>
-            </span>
+            </span> -->
 
         </div>
     <?php
-        }
     }
     ?>
 

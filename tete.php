@@ -66,7 +66,7 @@
 				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" id="navBarMenu" href="index.php"><strong>-- Accueil --</strong><span class="sr-only">(current)
+							<a class="nav-link" id="navBarMenu" href="index.php"><strong> Accueil </strong><span class="sr-only">(current)
 							</span></a>
 						</li>
 

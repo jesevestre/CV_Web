@@ -4,13 +4,12 @@
 		<footer class="text-white pt-1 pb-0 piedPage" id="bg-dark">
 			<div class="container text-center text-md-left">
 
-				<div class="row text-center text-md-left" style="margin-top: -20px;">
+				<div class="row text-center text-md-left" style="margin-top: -35px;">
 
 					<div class="col-md-4 col-lg-4 col-xl-3 mx-auto mt-3">
 						<h5 class="text-uppercase mb-4 font-weight-bold" id="text-warning">Présentation</h5>
-						<p class="text-justify">Je réalise ce site web dans le but
-							 de présenter mes compétences dans le développement de site internet - ici en HTML/CSS 
-							 et JavaScript avec la librairie GSAP et Bootstrap5.<br />
+						<p class="text-justify">Ce site web a été réalisé dans le but de présenter dans un 
+							espace plus libre qu'un CV, mes compétences et expériences. La page d'accueil a été réalisée à l'aide de la librairie GSAP.</br>
 							 <i class="fab fa-js-square fa-lg"></i> 
 							 <i class="fab fa-html5 fa-lg"></i> 
 							 <i class="fab fa-css3-alt fa-lg"></i> 
@@ -20,21 +19,22 @@
 						</div>
 
 						<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mt-3">
-							<a href="planSite.php" style="color: white;"><h5 class="text-uppercase mb-4 font-weight-bold" 
-							id="text-warning">Plan du site</h5></a>
-							<p>
+							<a href="planSite.php" style="color: white;">
+								<h5 class="text-uppercase mb-4 font-weight-bold" id="text-warning">Plan du site</h5>
+							</a>
+							<p style="line-height: 21px;">
 								<a href="monProfil.php" class="text-white planSite">Mon profil</a>
 							</p>
-							<p>
+							<p style="line-height: 21px;">
 								<a href="experiences.php" class="text-white planSite">Mes expériences</a>
 							</p>
 							<p>
 								<a href="competenceInfo.php" class="text-white planSite">Compétences informatiques</a>
 							</p>
-							<p>
+							<p style="line-height: 21px;">
 								<a href="formations.php" class="text-white planSite">Mes formations</a>
 							</p>
-							<p>
+							<p style="line-height: 21px;">
 								<a href="loisirsPassions.php" class="text-white planSite">Loisirs et passions</a>
 							</p>
 						</div>

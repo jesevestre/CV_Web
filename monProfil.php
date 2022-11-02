@@ -35,7 +35,7 @@
 
             <div class="tab-content" id="cv"><p><b>Mon Curriculum vitæ</b> Mis à jour le 22 Février 2022</p>
                 <ul>
-                    <li><img class="maPhoto" src="images/moi.JPG"></li>
+                    <li><img class="maPhoto" src="images/moi.jpg"></li>
 
                     <br />
 

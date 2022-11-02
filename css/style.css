@@ -114,15 +114,31 @@ form i.fas {
 
 /* PIED DE PAGE */
 .piedPage{
-    height: 330px; 
+    height: 260px; 
     margin-top: 50px; 
     border-radius: 10px;
 }
 
+@media screen and (max-width: 1000px) {
+    .text-justify{
+        line-height: 21px;
+    }
+}
+
 @media screen and (max-width: 770px) {
     .piedPage{
-        height: 880px !important;
+        height: 680px !important;
     }
+}
+
+@media screen and (max-width: 330px) {
+    .piedPage{
+        height: 780px !important;
+    }
+}
+
+h5.text-uppercase{
+    margin-bottom: 0.3em !important;
 }
 
 .containerPiedGauche {

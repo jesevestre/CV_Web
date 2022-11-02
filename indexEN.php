@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="icon" type="image/PNG" href="images/icone.PNG" />
-    <title>CV web Jean-Baptiste Sevestre</title>
+    <title>Web CV Jean-Baptiste Sevestre</title>
 
     <link href="css/styleAccueil.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" ref="stylesheet" />
@@ -32,11 +32,11 @@
         <h1><span class="titre">JEAN-</span><span class="titre">BAPTISTE </span><span class="titreHidden">SEVESTRE</span></h1>
 
         <div class="container-btns">
-            <a href="monProfil.php"><button class="btn-first b1">Mon profil</button></a>
-            <a href="experiences.php"><button class="btn-first b2">Expériences</button></a>
-            <a href="competenceInfo.php"><button class="btn-first b3">Compétences</button></a>
-            <a href="formations.php"><button class="btn-first b4">Formations</button></a>
-            <a href="loisirsPassions.php"><button class="btn-first b5">Loisirs</button></a>
+            <a href="monProfil.php"><button class="btn-first b1">My profile</button></a>
+            <a href="experiences.php"><button class="btn-first b2">Experiences</button></a>
+            <a href="competenceInfo.php"><button class="btn-first b3">Skills</button></a>
+            <a href="formations.php"><button class="btn-first b4">Trainings</button></a>
+            <a href="loisirsPassions.php"><button class="btn-first b5">Hobbies</button></a>
         </div>
     </div>
 
@@ -47,7 +47,7 @@
     </div>
 
 
-    <a href="indexEN.php"><img src="images/drapeauFR.jpg" class="logo" alt="Lien vers l'histoire de la Tour Eiffel" /></a>
+    <a href="index.php"><img src="images/drapeauUK.png" class="logo" alt="Lien vers l'histoire de la Tour Eiffel" /></a>
 
     <ul class="medias">
         <li class="bulle"><a href="https://www.linkedin.com/in/jean-baptiste-sevestre-588674134/" target="_blank"><i class="fab fa-2x fa-linkedin" alt="Lien pour accéder à LinkedIn" style="color: #222" class="logo-medias"></i></a></li>
@@ -61,11 +61,11 @@
     ?>
         <div class="banniere">
             <div class="text-banniere">
-                <p> Ce site utilise quelques cookies navigateur <span class="invisible-banniere-text">pour vous proposer la meilleure expérience de navigation possible</span>&nbsp;&nbsp;</p>
+                <p> This site uses some browser cookies <span class="invisible-banniere-text">to offer you the best possible browsing experience.</span>&nbsp;&nbsp;</p>
             </div>
 
             <div class="button-banniere-vert">
-                <a href="?accepte-cookie">Faire&nbsp;disparaître</a>
+                <a href="?accepte-cookie">Make&nbsp;disappear</a>
             </div>
             <!-- <span class="invisible-banniere-button">
                 <div class="button-banniere-rouge">

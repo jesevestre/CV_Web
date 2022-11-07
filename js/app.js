@@ -1,6 +1,6 @@
 const titreSpans = document.querySelectorAll('h1 span');
 const btns = document.querySelectorAll('.btn-first');
-const logo = document.querySelector('.logo');
+const logo = document.querySelectorAll('.logo');
 const switch1 = document.querySelector('.switch-mode');
 const medias = document.querySelectorAll('.bulle');
 const l1 = document.querySelector('.l1');

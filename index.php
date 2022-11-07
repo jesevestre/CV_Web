@@ -46,8 +46,10 @@
         <input type="checkbox" id="click" onclick="dark()" />
     </div>
 
-
-    <a href="indexEN.php"><img src="images/drapeauFR.jpg" class="logo" alt="Lien vers l'histoire de la Tour Eiffel" /></a>
+    <div>
+        <a href="#"><img src="images/drapeauFR.jpg" class="logo" alt="" /></a>
+        <a href="indexEN.php"><img src="images/drapeauUK2.png" class="logo" alt="Lien vers la page d'accueil en Anglais" /></a>
+    </div>
 
     <ul class="medias">
         <li class="bulle"><a href="https://www.linkedin.com/in/jean-baptiste-sevestre-588674134/" target="_blank"><i class="fab fa-2x fa-linkedin" alt="Lien pour accéder à LinkedIn" style="color: #222" class="logo-medias"></i></a></li>

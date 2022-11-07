@@ -35,7 +35,7 @@
             <a href="monProfil.php"><button class="btn-first b1">My profile</button></a>
             <a href="experiences.php"><button class="btn-first b2">Experiences</button></a>
             <a href="competenceInfo.php"><button class="btn-first b3">Skills</button></a>
-            <a href="formations.php"><button class="btn-first b4">Trainings</button></a>
+            <a href="formations.php"><button class="btn-first b4">Educations</button></a>
             <a href="loisirsPassions.php"><button class="btn-first b5">Hobbies</button></a>
         </div>
     </div>
@@ -47,7 +47,10 @@
     </div>
 
 
-    <a href="index.php"><img src="images/drapeauUK.png" class="logo" alt="Lien vers l'histoire de la Tour Eiffel" /></a>
+    <div>
+        <a href="#"><img src="images/drapeauFR.jpg" class="logo" alt="" /></a>
+        <a href="index.php"><img src="images/drapeauUK2.png" class="logo" alt="Lien vers la page d'accueil en Français" /></a>
+    </div>
 
     <ul class="medias">
         <li class="bulle"><a href="https://www.linkedin.com/in/jean-baptiste-sevestre-588674134/" target="_blank"><i class="fab fa-2x fa-linkedin" alt="Lien pour accéder à LinkedIn" style="color: #222" class="logo-medias"></i></a></li>

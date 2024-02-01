@@ -2,11 +2,11 @@ html, body {
     background-color: #f8f9fa;
   }
 
-.espacement{
+.espacement {
     margin-left: 20px;
 }
 
-.anneeBold{
+.anneeBold {
     border-bottom: 2px solid; 
     width: 50%; 
     margin-left:20%; 
@@ -20,15 +20,15 @@ html, body {
     font-size: 110%;
 }
 
-.form-control23{
+.form-control23 {
     height: 100px;
 }
 
-.marron{
+.marron {
     color: #A52A2A;
 }
 
-.PlanSiteSub li{
+.PlanSiteSub li {
     text-align: center;
     margin-left: -40px;
 }
@@ -40,29 +40,29 @@ html, body {
     margin-left: 30%;
 }
 
-.TitrePlanSite{
+.TitrePlanSite {
     text-align: center;
 }
 
-.TitrePlanSite a{
+.TitrePlanSite a {
     color: #343a40;
 }
 
-h1{
+h1 {
     color: #444; 
 }
 
-h4{
+h4 {
     color: #333; 
 }
 
-.h4Blanc{
+.h4Blanc {
     text-align: center;
     color: white;
     margin-left: 45px;
 }
 
-ul{
+ul {
     list-style-type: none;
 }
 
@@ -71,20 +71,20 @@ form i.fas {
     color: #444;
 }
 
-.planSite:hover{
+.planSite:hover {
     text-decoration: none;
     text-decoration: underline;
 }
 
-.contact-form{
+.contact-form {
     box-shadow: 30px 20px 10px #222;
 }
 
-.iconeContact{
+.iconeContact {
     color: #444 !important;
 }
 
-.btn-primary{
+.btn-primary {
     border: 2px solid rgba(60, 60, 60, 0.9) !important;
     padding-top: -20px;
     padding: 0.25rem 0.75rem;
@@ -94,13 +94,13 @@ form i.fas {
     font-weight: bold;
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
     border: 2px solid;
     background: #F1F1F1;
     color: #333;
 }
 
-.py-2{
+.py-2 {
     margin-top: 50px;
     margin-bottom: 0px;
     font-size:  100%;
@@ -112,8 +112,15 @@ form i.fas {
     width: 100px; 
 }
 
+/* SYSTEME CHEVRONS OUVRIR FERMER LES SECTIONS */
+.poste {
+    padding-bottom: 25px;
+}
+
 /* PIED DE PAGE */
-.piedPage{
+.piedPage {
+    position: relative;
+    top: 65px;
     height: 260px; 
     margin-top: 50px; 
     border-radius: 10px;
@@ -278,7 +285,6 @@ h5.text-uppercase{
   .fade.in{
     opacity: 1;
   }
-
 
 @media screen and (max-width: 950px) {
     .containerGeneral {

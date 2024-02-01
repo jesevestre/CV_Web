@@ -22,18 +22,26 @@ window.addEventListener('load', () => {
 })
 
 /* Les modes de constrastes */
-function dark() {
-    var a = document.getElementById("click");
+function darkMode() {
+    var clickDarkMode = document.getElementById("clickDarkMode");
 
-    if(a.checked == true){
+    if(clickDarkMode.checked == true){
         document.documentElement.style.setProperty("--background", "rgba(60, 60, 60, 0.6)");
         document.documentElement.style.setProperty("--background-btn", "rgba(60, 60, 60, 0.9)");
-        document.documentElement.style.setProperty("--trait", "#222");
-
     } else {
         document.documentElement.style.setProperty("--background", "transparent");
         document.documentElement.style.setProperty("--background-btn", "rgba(60, 60, 60, 0.5)");
-        document.documentElement.style.setProperty("--trait", "#F1F1F1");
+    }
+}
 
+function ImgDarkMode() {
+    var clickDarkMode = document.getElementById("clickDarkMode");
+
+    if (clickDarkMode.ckecked == true) {
+        document.getElementById("clickDarkMode").checked = false; // ne fonctionne pas
+        darkMode();
+    } else {
+        document.getElementById("clickDarkMode").checked = true;
+        darkMode();
     }
 }

@@ -35,21 +35,20 @@
             <a href="monProfil.php"><button class="btn-first b1">My profile</button></a>
             <a href="experiences.php"><button class="btn-first b2">Experiences</button></a>
             <a href="competenceInfo.php"><button class="btn-first b3">Skills</button></a>
-            <a href="formations.php"><button class="btn-first b4">Educations</button></a>
+            <a href="formations.php"><button class="btn-first b4">Education</button></a>
             <a href="loisirsPassions.php"><button class="btn-first b5">Hobbies</button></a>
         </div>
     </div>
 
     <div class="switch-mode">
-        <img src="images/soleil_clair.png" class="soleil_clair" />
-        <img src="images/soleil_fonce.png" class="soleil_fonce" />
-        <input type="checkbox" id="click" onclick="dark()" />
+        <img src="images/soleil_clair.png" class="soleil_clair" onclick="ImgDarkMode()" />
+        <img src="images/soleil_fonce.png" class="soleil_fonce" onclick="ImgDarkMode()" />
+        <input type="checkbox" id="clickDarkMode" onclick="darkMode()" />
     </div>
-
 
     <div>
         <a href="#"><img src="images/drapeauFR.jpg" class="logo" alt="" /></a>
-        <a href="index.php"><img src="images/drapeauUK2.png" class="logo" alt="Lien vers la page d'accueil en Français" /></a>
+        <a href="index.php"><img src="images/drapeauUSA2.png" class="logo" alt="Lien vers la page d'accueil en Français" /></a>
     </div>
 
     <ul class="medias">

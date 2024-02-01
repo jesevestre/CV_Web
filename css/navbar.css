@@ -110,7 +110,7 @@
 
   }
   #navBarMenu:hover{
-    font-weight: 500 !important;
+    text-decoration: underline;
   }
 
   #navbarTitre{

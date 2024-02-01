@@ -1,5 +1,3 @@
-/* ---------------------------------------------------------------------- */
-
 /* CharteJS */
 var graph = document.getElementById("graph").getContext("2d");
 

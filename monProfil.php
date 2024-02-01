@@ -17,32 +17,29 @@
         </ul>
         <div class="tabs-content">
 
-            <div class="tab-content active" id="profil"><p><b>Mon profil de développeur</b> Depuis Septembre 2018</p>
+            <div class="tab-content active" id="profil">
+                <p><b>Mon profil de développeur</b> Depuis Septembre 2018</p>
                 <ul>
-                    <li>•   Mon parcours évolutif m'a permis d’acquérir de nombreuses compétences dans le domaine 
-                        de l’informatique. Cette évolution m'a enrichi professionnellement au niveau de l'adaptabilité, 
-                        ainsi que personnellement, par l'acquisition de qualités telles que la rigueur et le sens du relationnel.</li>
+                    <li>•   Avec une expérience professionnelle de trois ans en tant que développeur web dans différents domaines, j’ai à coeur de développer des solutions avec un haut niveau de confort et d’exigence pour les utilisateurs.</li>
 
-                    <li>•	Mobile et disponible, je suis prêt à me mobiliser pour réussir dans les nouveaux 
-                        défis qui me seront confiés. Développer, améliorer et faire progresser sont les maîtres mots qui me motives. 
-                        J’ai à cœur de façon rigoureuse, de concevoir des solutions dans le<strong> domaine du web</strong>, que ce 
-                        soit pour des<strong> applications de gestion, sites vitrines et sites commerciaux</strong> en tant que 
-                        webmaster ou non.</li>
+                    <li>•	Concevoir, améliorer et rendre accessible sont mes réelles motivations. J’ai aussi à coeur de prendre en compte l’image de l’entreprise en accomplissant mes missions et en me battant pour réaliser des livrables de qualité.</li>
 
                     <br />
                 </ul>
             </div>
 
-            <div class="tab-content" id="cv"><p><b>Mon Curriculum vitæ</b> Mis à jour le 22 Février 2022</p>
-                <ul>
-                    <li><img class="maPhoto" src="images/PhotoCV.jpg"></li>
+            <div class="tab-content" id="cv">
+                <p><b>Mon Curriculum vitæ</b><br />
+                <span class="small"> Mis à jour le 03 Janvier 2024</span></p>
 
-                    <br />
+                <div class="col-12">
+                    <ul class="pt-3 text-center" style="margin-left: -5% !important;">
+                        <iframe  src="fichierTelechargeable/CV_Jean-Baptiste_SEVESTRE.pdf" height="800" width="90%"></iframe>
+                    </ul>
 
-                    <li><a href="fichierTelechargeable/CV_Jean-Baptiste_SEVESTRE.pdf" download="CV_Jean-Baptiste_SEVESTRE.pdf">Télécharger mon CV en fichier PDF</a></li>
-                </ul>
-                <br />
-
+                    <div class="text-center pt-1">
+                        <a href="fichierTelechargeable/CV_Jean-Baptiste_SEVESTRE.pdf" download="CV_Jean-Baptiste_SEVESTRE.pdf" class="col-10 btn btn-primary" style="top: 0px !important;">Télécharger le CV en fichier PDF</a>
+                    </div>
                 </div>
             </div>
 

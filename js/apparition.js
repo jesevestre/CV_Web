@@ -1,5 +1,3 @@
-/* ---------------------------------------------------------------------- */
-
 /* Apparition des paragraphes au défilement */
 const ratio = .1
 const options = {

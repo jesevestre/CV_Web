@@ -3,7 +3,6 @@
 
 <?php require('tete.php'); ?>
 
-<!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css -->
 <div class="container">
     <br />
     <div class="tel-400px"></div>
@@ -22,10 +21,11 @@
             <div class="tab-content active" id="professionnelles">
 
                 <article class="poste">
-                    <details class="poste_details" open>
-                        <summary class="poste_toggler">
-                            <span class="poste_toggler_text"><b>Développeur web, Média-immo, Corbeil-Essonnes (91)</b> Depuis novembre 2022</span>
-                        </summary>
+                    <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle1()">
+                        <i class="fas fa-arrow-circle-down" id="content-container-1-icone"></i>
+                        <span class="poste_toggler_text"><b>Développeur web, Média-immo, Corbeil-Essonnes (91)</b> Depuis novembre 2022</span>
+                    </button>
+                    <div class="faq__content-container--active" id="content-container-1">
                         <ul class="faq__content-text">
                             <li>• Dans le cadre de la loi ELAN imposant aux mairies d’avoir une gestion dématérialisée des autorisations d’Urbanisme, il m’a été confié de reprendre le développement de l’application Mairie-Urba permettant la transmission sécurisée et instantanée des échanges entre les différents acteurs (pétitionnaire, instructeur, service de l’État).</li>
 
@@ -43,15 +43,16 @@
                             <li>• Chef de projet de ses deux collègues ayant pour objectif la mise en production pour 2024 de la solution Mairie-Urba.
                             </li>
                         </ul>
-                    </details>
+                    </div>
                 </article>
 
                 <article class="poste">
-                    <details class="poste_details">
-                        <summary class="poste_toggler">
-                            <span class="poste_toggler_text"><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022</span>
-                        </summary>
-                        <ul>
+                    <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle2()">
+                        <i class="fas fa-arrow-circle-right" id="content-container-2-icone"></i>
+                        <span class="poste_toggler_text"><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022</span>
+                    </button>
+                    <div class="faq__content-container" id="content-container-2">
+                        <ul class="faq__content-text">
                             <li>• Développement de deux applications web précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
 
                             <li>• L'intérêt de la première application était de pouvoir suivre les réponses des projets déposés par les chercheurs aux appels à proposition des différents organismes (U-E, ANR, Région etc), puis de pouvoir visualiser l'évolution des projets retenus. Un suivi détaillé de l'évolution des demandes se faisait par l'utilisation de workflow (code état) jusqu'à la signature ou non du projet qui basculait ensuite en contrat.</li>
@@ -66,22 +67,23 @@
 
                             <li>• Participation de la migration vers un nouveau serveur en version PHP 7.4 et APACHE 2.0 avec un informaticien réseau et administrateur système ainsi que le passage de l'encodage en ISO vers de l'UTF8.</li>
                         </ul>
-                    </details>
+                    </div>
                 </article>
 
                 <article class="poste">
-                    <details class="poste_details">
-                        <summary class="poste_toggler">
-                            <span class="poste_toggler_text"><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</span>
-                        </summary>
-                        <ul>
+                    <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle3()">
+                        <i class="fas fa-arrow-circle-right" id="content-container-3-icone"></i>
+                        <span class="poste_toggler_text"><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</span>
+                    </button>
+                    <div class="faq__content-container" id="content-container-3">
+                        <ul class="faq__content-text">
                             <li>• Développement de l’outil CRM web du logiciel d’ERP Squalp ayant comme objectif pour les commerciaux d’avoir une utilisation nomade de l’application lors de leur mission.Durant cette phase j’ai réalisé consulting data avec l’étude de mise en oeuvre, puis la conception de l’application en gestion du projet (Trello) en modèle MVC utilisant les technologie PHP-Objet et VueJS-2, concepteur et administrateur de la base de données en SQLServer, et enfin bêta-testeur.</li>
 
                             <li>• Développement et déploiement du site de l’entreprise utilisant entre autres la librairie Impress.js ayant comme objectif principal l’explication du logiciel Squalp.</li>
 
                             <li>• Utilisation du logiciel d’analyse de visualisation de données POWER-BI (low-code).</li>
                         </ul>
-                    </details>
+                    </div>
                 </article>
                 <br />
 
@@ -217,5 +219,6 @@
 
 </div>
 <script type="text/javascript" src="js/apparition.js"></script>
+<script type="text/javascript" src="js/accordeon.js"></script>
 <script type="text/javascript" src="js/onglets.js"></script>
 <?php require('pied.php'); ?>

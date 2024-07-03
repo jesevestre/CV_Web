@@ -1,6 +1,5 @@
 <a id="sport"></a>
 <a id="autre"></a>
-
 <?php require('tete.php'); ?>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->
@@ -8,7 +7,7 @@
 <br />
 <div class="tel-400px"></div>
 
-    <h1>Mes loisirs et passions</h1>
+    <h1>Loisirs</h1>
     <br />
 
     <div>
@@ -20,24 +19,36 @@
         <div class="tabs-content">
 
             <div class="tab-content active" id="benevolat">
-                <p>•	Je réalise de l'<b>aide informatique</b> chez mes voisins âgées. je les dépanne régulièrement pour des soucis de
-                téléviseur, installation et réglage de box internet, boite Email etc.</p>
+                <p>•	Aide chez les personnes âgées concernant leur souci d’<b>informatique</b>, notamment pour :
+                     <ol>
+                        <li>Le debuggage informatique</li>
+                        <li>Leur téléviseur</li>
+                        <li>L'installation et réglage de box internet</li>
+                        <li>Gestion de leur boite email etc</li>
+                    </ol>
+                </p>
 
-                <p>•	En parallèle, j'entretiens le jardin de ces personnes. Je réalise entre autres l’entretien de massif, 
-                    taille des arbres, tonte, débroussaillage, jardinage etc.</p>
+                <p>•	Me changer l’esprit en m’occupant des <b>espaces verts</b> de mon voisinage, totamment en m'occupant de :
+                    <ol>
+                        <li>L'entretien de massif</li>
+                        <li>Le jardinage</li>
+                        <li>La taille des arbres</li>
+                        <li>La tonte du gazon</li>
+                        <li>Le mulching</li>
+                        <li>Le déroussaillage etc</li>
+                    <ol>
+                </p>
             </div>
 
 
             <div class="tab-content" id="sport">
-                <p>•	Je pratique du <b>sport de résistance</b> qui est la musculation dans une salle de sports depuis 2017, cela me permet 
+                <p>•	Pratique régulière dans une <b>salle de sports</b> depuis 2017, cela me permet 
                 entre autres de penser à autre chose qu'à l'informatique. Comme dit le dicton, bien dans 
                 son corps, bien dans sa tête.</p>
 
-                <p>•	Je suis aussi un ancien pratiquant de <b>handball</b> et <b>volley-ball</b> en club universitaire, que j'ai pratiqué durant mes deux années
-                    à la faculté d'Angers.</p>
+                <p>•	Pratiquant de <b>volley-ball</b> régulier.</p>
 
-                <p>•	Enfin, je suis ancien pratiquant en club communal du <b>VTT</b>. Cette passion ne m'a jamais quitté puisque dès que je pars 
-                    en vacances, je l'emnène avec moi.</p>
+                <p>•	Encien pratiquant en club communal du <b>VTT</b>. Cette passion ne m'a jamais quitté puisque dès que je pars en vacances, je l'emnène avec moi.</p>
                 <table class="image_sport">
                     <tr>
                         <td><img src="images/VTT.png" alt="image d'un VTT"></td>
@@ -50,13 +61,11 @@
             <div class="tab-content" id="autre">
                 <p>•	Je suis passionné de <b>science-fiction</b>. J'adore me plonger dans de nouveaux univers qui font travailler l'imagination.</p>
 
-                <p>•	Je m'intéresse aussi beaucoup aux nouvelles technologies. En ce moment, je me perfectionne au langage <b>JavaScript</b> et 
-                au Framwork <b>VueJS-2</b> car j'ai l'ambition de devenir développeur full-stack (front-end, back-end et gestion de base de données).<p>
+                <p>•	Je m'intéresse aussi beaucoup aux nouvelles technologies. En ce moment, je me perfectionne au CMS <b>WordPress</b>.<p>
                     
-                <p>•	Je joue aussi de temps en temps à Cities-Skylines, Transport-Fever et Factorio qui sont des jeux de création et de gestion de ville.</p>
+                <p>•	Je joue aussi de temps en temps à Cities-Skylines, Transport-Fever et Factorio qui sont des jeux de création et de <b>gestion de ville</b>.</p>
 
-                <p>•	J'ai passé récemment le permis bateau côtier. A présent quand j'en ai l'occasion, je pars en balade avec des amis sur les cotes de 
-                    la mer méditérranée.</p>
+                <p>•	Je posséde le permis <b>voiture, grande remorque et bateau côtier</b>. A présent quand j'en ai l'occasion, je pars en balade avec des amis sur les cotes de la mer méditérranée.</p>
             </div>
 
         </div>

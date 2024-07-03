@@ -15,7 +15,7 @@ var myChart = new Chart(graph, {
         ],    
         datasets: [{
             label: "Maîtrise des langages",
-            data: [0, 7, 9, 8, 6, 5, 3],
+            data: [0, 7, 9, 8, 6, 4, 2],
             backgroundColor: 'rgba(203, 200, 192, 0.7)',
             borderColor: '#32CD32',
             borderWidth: 2.5,

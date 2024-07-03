@@ -63,7 +63,7 @@
     ?>
         <div class="banniere">
             <div class="text-banniere">
-                <p> Ce site utilise quelques cookies navigateur <span class="invisible-banniere-text">pour vous proposer la meilleure expérience de navigation possible</span>&nbsp;&nbsp;</p>
+                <p> Ce site utilise des cookies navigateur <span class="invisible-banniere-text">pour vous proposer la meilleure expérience de navigation possible</span>&nbsp;&nbsp;</p>
             </div>
 
             <div class="button-banniere-vert">

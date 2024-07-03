@@ -1,13 +1,12 @@
-<a id="stages"></a>
+ <a id="stages"></a>
 <a id="projets"></a>
-
 <?php require('tete.php'); ?>
 
 <div class="container">
     <br />
     <div class="tel-400px"></div>
 
-    <h1>Mes expériences</h1>
+    <h1>Expériences</h1>
     <br />
 
     <div>
@@ -23,25 +22,13 @@
                 <article class="poste">
                     <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle1()">
                         <i class="fas fa-arrow-circle-down" id="content-container-1-icone"></i>
-                        <span class="poste_toggler_text"><b>Développeur web, Média-immo, Corbeil-Essonnes (91)</b> Depuis novembre 2022</span>
+                        <span class="poste_toggler_text"><b>Associé webmaster dans le lancement d'un centre de préparation et de récupération sportive, SmartRécup, Lille (59)</b> Depuis Avril 2024</span>
                     </button>
                     <div class="faq__content-container--active" id="content-container-1">
                         <ul class="faq__content-text">
-                            <li>• Dans le cadre de la loi ELAN imposant aux mairies d’avoir une gestion dématérialisée des autorisations d’Urbanisme, il m’a été confié de reprendre le développement de l’application Mairie-Urba permettant la transmission sécurisée et instantanée des échanges entre les différents acteurs (pétitionnaire, instructeur, service de l’État).</li>
+                            <li>• Développement du site web par la création de la <b>vitrine en ligne</b> et d’un système complexe de <b>prise de rendez-vous</b> pour les clients. Ceci comprend l’outil de gestion et de visualisation des réservations pour le praticien. De plus, l’aspect <b>CEO</b> et la conception <b>responsive</b> ont été des priorités pour garantir <b>l’accessibilité</b> de <a href="http://smartrécup.fr/" target="blank"><span class="text-primary">smartrécup.fr</span></a></li>
 
-                            <li>• Développement et correction de deux applications en PHP 7.4 avec Bootstrap en front-end, Javascript utilisant jQuery et participation à la mise en place de l’API Plat’AU pour les demandes qui ont besoin d’une consultation d’un service de l’État.Ce développement comprend notamment :<br />
-                            <ol><li style="margin-left: 15px;">La maintenance corrective et évolutive du site internet,</li>
-                            <li style="margin-left: 15px;">Refonte et intégration d'interfaces, développement Full Stack,</li>
-                            <li style="margin-left: 15px;">Assistance des utilisateurs (incidents, anomalies, présentation des évolutions),</li>
-                            <li style="margin-left: 15px;">Analyse des besoins, préconisations techniques,</li>
-                            <li style="margin-left: 15px;">Développements d’interfaces responsives,</li>
-                            <li style="margin-left: 15px;">Intégration d’éléments graphiques préparés par le service communication.</li></ol>
-
-                            <li>• Formation de deux nouveaux collègues durant trois mois me rejoignant sur ce projet.
-                            </li>
-
-                            <li>• Chef de projet de ses deux collègues ayant pour objectif la mise en production pour 2024 de la solution Mairie-Urba.
-                            </li>
+                            <li>• Prospections et participations à des <b>évènements</b> sportifs, recherche active de <b>partenariat</b> et organisation de <b>collaborations stratégiques</b>.</li>
                         </ul>
                     </div>
                 </article>
@@ -49,23 +36,23 @@
                 <article class="poste">
                     <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle2()">
                         <i class="fas fa-arrow-circle-right" id="content-container-2-icone"></i>
-                        <span class="poste_toggler_text"><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022</span>
+                        <span class="poste_toggler_text"><b>Développeur web, Média-immo, Corbeil-Essonnes (91)</b> Novembre 2022 - Avril 2024 (1 an et demi)</span>
                     </button>
                     <div class="faq__content-container" id="content-container-2">
                         <ul class="faq__content-text">
-                            <li>• Développement de deux applications web précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
+                            <li>• Dans le cadre de la loi ELAN imposant aux mairies d’avoir une gestion dématérialisée des autorisations d’Urbanisme, il m’a été confié de reprendre le développement de l’application <b>Mairie-Urba</b> permettant la <b>transmission sécurisée et instantanée</b> de façon <b>dématéralisée</b> des échanges entre les différents acteurs (pétitionnaire, instructeur, service de l’État).</li>
 
-                            <li>• L'intérêt de la première application était de pouvoir suivre les réponses des projets déposés par les chercheurs aux appels à proposition des différents organismes (U-E, ANR, Région etc), puis de pouvoir visualiser l'évolution des projets retenus. Un suivi détaillé de l'évolution des demandes se faisait par l'utilisation de workflow (code état) jusqu'à la signature ou non du projet qui basculait ensuite en contrat.</li>
+                            <li>• Développement et correction de deux applications en PHP 7.4 avec Bootstrap en front-end, <b>Javascript</b> utilisant <b>jQuery</b> et participation à la mise en place de l’API <b>Plat’AU</b> pour les demandes qui ont besoin d’une consultation d’un service de l’État. Ce développement comprend notamment :<br />
+                            <ol><li style="margin-left: 15px;">La maintenance corrective et évolutive du site internet,</li>
+                            <li style="margin-left: 15px;">Refonte et intégration d'interfaces, développement Full Stack,</li>
+                            <li style="margin-left: 15px;">Assistance des utilisateurs (incidents, anomalies, présentation des évolutions),</li>
+                            <li style="margin-left: 15px;">Analyse des besoins, préconisations techniques,</li>
+                            <li style="margin-left: 15px;">Développements d’interfaces responsives,</li>
+                            <li style="margin-left: 15px;">Intégration d’éléments graphiques préparés par le service communication.</li></ol>
 
-                            <li>• La deuxième application est utilisée pour la gestion financière des contrats de recherche. Leur nombre croissant a amené mon institut de rattachement à réfléchir à un système global de suivi des contrats de recherche. Ceci dans
-                                l'objectif de suivre et coordonner les dépenses inhérentes des contrats et les rapprocher d'un budget préalablement défini.
-                                Ce système doit répondre à deux impératifs importants : <br />
-                                <span class="espacement"></span> 1) Améliorer le dialogue entre porteurs de projet, service et groupe administratif de l’institut, par l’utilisation
-                                d’informations communes. <br />
-                                <span class="espacement"></span>2) Mettre en place une mutualisation intelligente, souple et partagée des overheads générés par ces contrats afin d’augmenter la productivité et la confiance des utilisateurs dans les données présentées.
-                            </li>
+                            <li>• <b>Responsable de projet</b> dont l’objectif fut la mise en production pour 2024 de la solution.</li>
 
-                            <li>• Participation de la migration vers un nouveau serveur en version PHP 7.4 et APACHE 2.0 avec un informaticien réseau et administrateur système ainsi que le passage de l'encodage en ISO vers de l'UTF8.</li>
+                            <li>• <b>Formateur</b> de deux collègues me rejoignant sur l’application Mairie-Urba.</li>
                         </ul>
                     </div>
                 </article>
@@ -73,15 +60,39 @@
                 <article class="poste">
                     <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle3()">
                         <i class="fas fa-arrow-circle-right" id="content-container-3-icone"></i>
-                        <span class="poste_toggler_text"><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</span>
+                        <span class="poste_toggler_text"><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022 (12 mois)</span>
                     </button>
                     <div class="faq__content-container" id="content-container-3">
                         <ul class="faq__content-text">
-                            <li>• Développement de l’outil CRM web du logiciel d’ERP Squalp ayant comme objectif pour les commerciaux d’avoir une utilisation nomade de l’application lors de leur mission.Durant cette phase j’ai réalisé consulting data avec l’étude de mise en oeuvre, puis la conception de l’application en gestion du projet (Trello) en modèle MVC utilisant les technologie PHP-Objet et VueJS-2, concepteur et administrateur de la base de données en SQLServer, et enfin bêta-testeur.</li>
+                            <li>• Développement de deux applications web précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
 
-                            <li>• Développement et déploiement du site de l’entreprise utilisant entre autres la librairie Impress.js ayant comme objectif principal l’explication du logiciel Squalp.</li>
+                            <li>• L'intérêt de la première application est de visualiser les projets déposés par les chercheurs et suivre <b>l’évolution des réponses</b> par les différents organismes (U-E, ANR, Région etc.). Un suivi détaillé de l'évolution des demandes se fait par l'utilisation de <b>workflow</b> (code état) qui bascule ensuite en <b>contrat</b>.</li>
 
-                            <li>• Utilisation du logiciel d’analyse de visualisation de données POWER-BI (low-code).</li>
+                            <li>• La deuxième application est utilisée pour la <b>gestion financière des contrats de recherche</b>. Leur nombre croissant a amené mon institut de rattachement à réfléchir à un système global de suivi des contrats de recherche. Ceci dans
+                                l'objectif de suivre et coordonner les dépenses inhérentes des contrats et les rapprocher d'un budget préalablement défini.
+                                Ce système doit répondre à deux impératifs importants : <br />
+                                <span class="espacement"></span> 1) Améliorer le dialogue entre porteurs de projet, service et groupe administratif de l’institut, par l’utilisation
+                                d’informations communes. <br />
+                                <span class="espacement"></span> 2) Mettre en place une mutualisation intelligente, souple et partagée des overheads générés par ces contrats afin d’augmenter la productivité et la confiance des utilisateurs dans les données présentées.
+                            </li>
+
+                            <li>• Utilisation d’APACHE2.0, de <b>MariaDB</b> et du <b>JavaScript</b> en <b>AJAX</b>. Réalisation de la migration vers un nouveau serveur en version <b>PHP7.4</b> avec l’accompagnement d’un informaticien réseau et administrateur système, puis passage des applications encodées en <b>ISO</b> vers l'<b>UTF8</b>.</li>
+                        </ul>
+                    </div>
+                </article>
+
+                <article class="poste">
+                    <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle4()">
+                        <i class="fas fa-arrow-circle-right" id="content-container-4-icone"></i>
+                        <span class="poste_toggler_text"><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</span>
+                    </button>
+                    <div class="faq__content-container" id="content-container-4">
+                        <ul class="faq__content-text">
+                            <li>• Développement de l’outil CRM web du logiciel d’ERP Squalp ayant comme objectif pour les commerciaux d’avoir une utilisation nomade de l’application lors de leur mission. Durant cette phase j’ai réalisé consulting data avec l’étude de mise en oeuvre, puis la conception de l’application en <b>gestion du projet</b> (Trello) en modèle MVC utilisant les technologie <b>PHP-Objet et VueJS-2</b>, concepteur et administrateur de la base de données en SQLServer, et enfin bêta-testeur.</li>
+
+                            <li>• Développement et déploiement du site de l’entreprise utilisant entre autres la librairie <b>Impress.js</b> ayant comme objectif principal l’explication du logiciel Squalp.</li>
+
+                            <li>• Utilisation du logiciel d’analyse de visualisation de données <b>POWER-BI</b> (low-code).</li>
                         </ul>
                     </div>
                 </article>
@@ -93,11 +104,11 @@
                 <p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)
                     </b>Mars – Septembre 2020 (6 mois)</p>
                 <ul>
-                    <li>• Mise en place d'une application web avec une base de données permettant la gestion des retours usines sous forme de code erreur. Il a comme objectif d’automatiser et de rendre paramétrable par les utilisateurs, ces retours usines.</li>
+                    <li>• Mise en place d'une application web avec une base de données permettant la <b>gestion des retours d’usines</b> sous forme de code erreur. Il a comme objectif d’<b>automatiser</b> et de <b>rendre paramétrable</b> par les utilisateurs ces retours.</li>
 
-                    <li>• Travail accompagné d'une partie accessibilité pour personne à déficience visuelle et à la mise en place de l’interface en multilingue.</li>
+                    <li>• Travail accompagné d'une partie accessibilité pour <b>personne à déficience visuelle</b> et à la mise en place de l’interface en <b>multilingue</b>.</li>
 
-                    <li>• Expérience et compétence acquises dans la réalisation de ce projet en large autonomie utilisant les langages de programmation PHP, HTML/CSS et les requêtes PostgreSQL.</li>
+                    <li>• Expérience et compétence acquises dans la réalisation de ce projet en large autonomie dû à la crise du covid utilisant les langages <b>PHP, HTML/CSS et PostgreSQL</b>.</li>
 
                     <li><a href="fichierTelechargeable/Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf" download="Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf">Télécharger le rapport</a></li>
                     <li><a href="fichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_Master.pptx" download="Oral_Jean-Baptiste_SEVESTRE_Master.pptx">Télécharger la présentation</a></li>

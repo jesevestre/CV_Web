@@ -43,9 +43,9 @@ h1 span{
     outline: none;
     background-color: var(--background-btn);
     font-size: 30px;
-    padding: 20px;
+    padding: 15px;
     width: 250px;
-    color: #FFF;
+    color: #F1F1F1;
     cursor: pointer;
     font-weight: bold;
 }
@@ -327,15 +327,9 @@ input:checked[type="checkbox"]:before{
         margin-right: 5px;
     }
     .btn-first{
-        border: 2px solid #F1F1F1;
-        outline: none;
-        background: rgba(60, 60, 60, 0.6);
+        /* background: rgba(60, 60, 60, 0.6); */
         font-size: 15px;
-        padding: 20px;
         width: 150px;
-        color: #F1F1F1;
-        cursor: pointer;
-        font-weight: bold;
     }
     .l1{
         width: 150px;

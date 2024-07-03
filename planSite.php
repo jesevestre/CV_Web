@@ -1,5 +1,4 @@
 <a id=""></a>
-
 <?php require('tete.php'); ?>
 
 <!-- CLASSE PROVENANT DE LA LIBRAIRIE DISTANTE BOOTSTRAP ET DE style.css-->

@@ -33,7 +33,6 @@ function darkMode() {
         document.documentElement.style.setProperty("--background-btn", "rgba(60, 60, 60, 0.5)");
     }
 }
-
 function ImgDarkMode() {
     var clickDarkMode = document.getElementById("clickDarkMode");
 

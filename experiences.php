@@ -155,19 +155,10 @@
 
 
             <div class="tab-content" id="projets">
-            <p><b>Réalisation d’un site web pour la prise de rendez-vous de massage de confort et sportif</b></p>
+                <p><b>Création d’un site web pour un footballeur professionnel se lançant dans le coaching sportif en VueJS2</b></p>
                 <ul class="decalleLI">
-                    <li>• Réalisation d’une application web pour une personne se lançant dans les massages et ayant besoin d'un logiciel web de prise de rendez-vous pour planifier ses séances. Site web réalisé avec le Framwork Bootstrap5 en PHP7.4 et en MySQL contenant un espace administrateur et un espace client : <a href="http://cempolytechnique.free.fr/" target="blank"><span class="text-primary">LeRdvBienEtre.fr</span></a>
-                    </li>
-                </ul>
-                <br />
-
-                <p><b>Réalisation d’un site vitrine pour un ami se lançant dans le coaching sportif</b></p>
-                <ul class="decalleLI">
-                    <li>• Réalisation d’un site internet pour une personne se lançant dans le coaching sportif et ayant
-                        besoin de visibilité. Site web réalisé avec le Framwork VueJS-2 contenant présentement un carrousel avec un zoom image, un système d'onglet permettant d'afficher les informations hiérarchiquement, un système de routeur avec des
-                        animations entre les vues, une boutique en ligne permettant de vendre des produits sportifs, une page de contact,
-                        et enfin un en-tête/pied de page avec Bootstrap5 : <a href="http://m.training.free.fr/" target="blank"><span class="text-primary">m.training.free.fr</span></a>
+                    <li>• Création d’un site web pour un footballeur professionnel se lançant dans le coaching sportif et ayant besoin de visibilité.</li>
+                    <li>• Site web réalisé avec le Framework VueJS-2 contenant présentement un carrousel avec un zoom image, un système d'onglet permettant d'afficher les informations hiérarchiquement, un système de routeur avec des animations entre les vues, une boutique en ligne permettant de vendre des produits sportifs, une page de contact, et enfin un en-tête/pied de page avec Bootstrap5 : <a href="http://m.training.free.fr/" target="blank"><span class="text-primary">m.training.free.fr</span></a>
                     </li>
                 </ul>
                 <br />
@@ -195,16 +186,15 @@
                             puisse se repérer et être guidée dans l’espace public. De plus un outil de reconnaissance faciale a été
                             mis en place pour qu’elle puisse reconnaître ses proches. <a href="fichierTelechargeable/Rapport-Finale_Don'tForget.pdf" download="Rapport-Finale_Don'tForget.pdf">Télécharger le rapport</a>
                         </li>
-                    </ul>dex
+                    </ul>
                 </div>
                 <br />
 
                 <div class="reveal">
-                    <p><b>Création d’un site internet pour l'association équestre de l'Ecole Polytechnique</b></p>
+                    <p><b>Création d’un site internet pour l'association équestre de l'École Polytechnique</b></p>
                     <ul class="decalleLI">
-                        <li>• Création d’un site internet pour l'association équestre de l'Ecole Polytechnique, comprenant
-                            une partie actualité, ainsi qu'une partie gestion des cours. Ce site web est aussi doté d'une partie
-                            assez complète concernant l'accessibilité visuelle. Ce fu mon premier déploiement sur un serveur privé.
+                        <li>• Cette démarche s’inscrit dans la volonté d’avoir une interaction avec le monde professionnel et de nous confronter à ses exigences en matière de prestation et de gestion du temps qui nous était imparti. Cette réalisation devait se faire de façon gratuite et en parallèle de nos cours à la faculté.</li>
+                        <li>• Au terme de ce projet technique de quatre mois qui a été pour moi une première expérience de création d’un site internet dans le secteur de l’informatique au service du handicap, je tiens à remercier chaleureusement Monsieur Guillaume BUFFET, vice-président de l’association du Centre Équestre Militaire De L’école Polytechnique qui a été mon correspondant durant ce travail, et que j’ai rencontré à quatre reprises pour discuter de l’avancement du projet ainsi que Monsieur Olivier SEVESTRE qui nous a mis en relation.</li>
                         </li>
                     </ul>
                 </div>

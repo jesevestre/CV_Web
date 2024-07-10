@@ -28,7 +28,7 @@
 
             <div class="tab-content" id="cv">
                 <p><b>Mon Curriculum vitæ</b><br />
-                <span class="small"> Mis à jour le 26 Juin 2024</span></p>
+                <span class="small"> Mis à jour le 05 Juillet 2024</span></p>
 
                 <div class="col-12">
                     <ul class="pt-3 text-center" style="margin-left: -5% !important;">

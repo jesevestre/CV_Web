@@ -26,7 +26,7 @@
                     </button>
                     <div class="faq__content-container--active" id="content-container-1">
                         <ul class="faq__content-text">
-                            <li>• Développement du site web par la création de la <b>vitrine en ligne</b> et d’un système complexe de <b>prise de rendez-vous</b> pour les clients. Ceci comprend l’outil de gestion et de visualisation des réservations pour le praticien. De plus, l’aspect <b>CEO</b> et la conception <b>responsive</b> ont été des priorités pour garantir <b>l’accessibilité</b> de <a href="http://smartrécup.fr/" target="blank"><span class="text-primary">smartrécup.fr</span></a></li>
+                            <li>• Développement du site web par la création de la <b>vitrine en ligne</b> et d’un système complexe de <b>prise de rendez-vous</b> pour les clients. Ceci comprend l’outil de gestion et de visualisation des réservations pour le praticien. De plus, l’aspect <b>SEO</b> et la conception <b>responsive</b> ont été des priorités pour garantir <b>l’accessibilité</b> de <a href="http://smartrécup.fr/" target="blank"><span class="text-primary">smartrécup.fr</span></a></li>
 
                             <li>• Prospections et participations à des <b>évènements</b> sportifs, recherche active de <b>partenariat</b> et organisation de <b>collaborations stratégiques</b>.</li>
                         </ul>
@@ -40,17 +40,11 @@
                     </button>
                     <div class="faq__content-container" id="content-container-2">
                         <ul class="faq__content-text">
-                            <li>• Dans le cadre de la loi ELAN imposant aux mairies d’avoir une gestion dématérialisée des autorisations d’Urbanisme, il m’a été confié de reprendre le développement de l’application <b>Mairie-Urba</b> permettant la <b>transmission sécurisée et instantanée</b> de façon <b>dématéralisée</b> des échanges entre les différents acteurs (pétitionnaire, instructeur, service de l’État).</li>
+                            <li>• Dans le cadre de la loi ELAN, reprise du développement de l’application <b>Mairie-Urba</b> permettant la <b>transmission sécurisée et instantanée</b> de façon <b>dématérialisée</b> des échanges entre les différents acteurs.</li>
 
-                            <li>• Développement et correction de deux applications en PHP 7.4 avec Bootstrap en front-end, <b>Javascript</b> utilisant <b>jQuery</b> et participation à la mise en place de l’API <b>Plat’AU</b> pour les demandes qui ont besoin d’une consultation d’un service de l’État. Ce développement comprend notamment :<br />
-                            <ol><li style="margin-left: 15px;">La maintenance corrective et évolutive du site internet,</li>
-                            <li style="margin-left: 15px;">Refonte et intégration d'interfaces, développement Full Stack,</li>
-                            <li style="margin-left: 15px;">Assistance des utilisateurs (incidents, anomalies, présentation des évolutions),</li>
-                            <li style="margin-left: 15px;">Analyse des besoins, préconisations techniques,</li>
-                            <li style="margin-left: 15px;">Développements d’interfaces responsives,</li>
-                            <li style="margin-left: 15px;">Intégration d’éléments graphiques préparés par le service communication.</li></ol>
+                            <li>• Développement et correction de deux applications utilisant en backend <b>PHP 7.0</b> avec <b>MySQL</b> en <b>architecture MVC</b>. En  frontend <b>Bootstrap</b> et <b>Javascript</b> (jQuery) tout en participant à la mise en place de l'<b>API Plat’AU</b>.</li></ol>
 
-                            <li>• <b>Responsable de projet</b> dont l’objectif fut la mise en production pour 2024 de la solution.</li>
+                            <li>• <b>Responsable de projet</b> en méthode <b>Agile</b> avec <b>WeKan</b> et <b>SVN</b> pour le <b>versioning</b> dont l’objectif est la mise en production pour 2024 de la solution.</li>
 
                             <li>• <b>Formateur</b> de deux collègues me rejoignant sur l’application Mairie-Urba.</li>
                         </ul>

@@ -21,14 +21,14 @@
                 <ul>
                     <li>•   Avec une expérience professionnelle de trois ans en tant que développeur web dans différents domaines, j’ai à coeur de développer des solutions avec un haut niveau de qualité et d’exigence.</li>
 
-                    <li>•	Concevoir, améliorer, rendre accessible et responsive sont mes maîtres mots. Je prendrai en compte l’image de l’entreprise en accomplissant les missions qui me seront confiées et en produisant des livrables de haute qualité.</li>
+                    <li>•	Concevoir, améliorer, rendre accessible sont mes maîtres mots. Je prendrai en compte l’image de votre entreprise en accomplissant les missions qui me seront confiées par mon sens du relationnel et du travail en équipe.</li>
                     <br />
                 </ul>
             </div>
 
             <div class="tab-content" id="cv">
                 <p><b>Mon Curriculum vitæ</b><br />
-                <span class="small"> Mis à jour le 05 Juillet 2024</span></p>
+                <span class="small"> Mis à jour le 11 Juillet 2024</span></p>
 
                 <div class="col-12">
                     <ul class="pt-3 text-center" style="margin-left: -5% !important;">

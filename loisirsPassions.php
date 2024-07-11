@@ -19,7 +19,7 @@
         <div class="tabs-content">
 
             <div class="tab-content active" id="benevolat">
-                <p>•	Aide chez les personnes âgées concernant leur souci d’<b>informatique</b>, notamment pour :
+                <p>•	Aide chez les personnes âgées pour leur souci en <b>informatique</b>, notamment pour :
                      <ol>
                         <li>Le debuggage informatique</li>
                         <li>Leur téléviseur</li>
@@ -28,7 +28,7 @@
                     </ol>
                 </p>
 
-                <p>•	Me changer l’esprit en m’occupant des <b>espaces verts</b> de mon voisinage, totamment en m'occupant de :
+                <p>•	Je m'occupe aussi des <b>espaces verts</b> de mon voisinage, totamment en m'occupant de :
                     <ol>
                         <li>L'entretien de massif</li>
                         <li>Le jardinage</li>

@@ -21,8 +21,7 @@
                     <li>•	<b>PHP</b></li>
                     <li>•	<b>HTML/CSS</b></li>
                     <li>•	<b>Base de données</b> SQL (MySQL, SQLServer, PostgreSQL)</li>
-                    <li>•	<b>Javascript</b></li>
-                    <li>•	<b>AJAX</b></li>
+                    <li>•	<b>Javascript</b>(jQuery, AJAX)</li>
                     <li>•	Front-end VueJS-2</li>
                     <li>•	Back-end Symfony4/5</li>
                 </ul>
@@ -35,14 +34,15 @@
             <div class="tab-content" id="environnement">
                 <ul>
                     <li>•	Environnement <b>Linux/Unix</b> et <b>Windows</b> maîtrisé</li>
-                    <li>•	Gestion de projet en méthodes <b>Agiles SCRUM</b> (Git/GitHub, Trello, Microsft Project, WeKan)</li>
-                    <li>•	Logiciel d’analyse et visualisation des données <b>POWER BI</b> (low-code)</li>
+                    <li>•	Logiciel de <b>versionning<b> (Git-bash/GitHub, SVN)</li>
+                    <li>•	Gestion de projet en méthodes <b>agiles<b> (WeKan, Trello, Gantt, Microsft Project)</li>
+                    <li>•	<b>POWER BI</b></li>
                     <li>•	Outils bureautiques (Word, Excel, PowerPoint, Project, Libre Office)</li>
-                    <li>•	Développement d’<b>application Android</b> (Android-Studio et Firebase)</li>
-                    <li>•	Editeur de code <b>Visual-Studio-Code et DreamWeaver</b></li>
+                    <li>•	Développement d'<b>application Android</b> (Android-Studio et Firebase)</li>
                     <li>•	Outils d’accessibilité (W3C, WAI et WCAG 2.0)</li>
-                    <li>•	Connaissance dans le CMS WordPress</li>
-                    <li>•	Outils graphiques (GIMP2, SktechUp, Paint, Windows Movie Maker)</li>
+                    <li>•	Connaissance du CMS WordPress</li>
+                    <li>•	Outils d'<b>accessibilité web</b> (W3C, WAI et WCAG 2.0)</li>
+                    <li>•	Respect et application des <b>règles RGPD</b></li>
                 </ul>
             </div>
 

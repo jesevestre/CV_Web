@@ -9,6 +9,15 @@
     <h1>Formations</h1>
     <br />
 
+    <p class="anneeBold">2022</p>
+    <p><b>Formation bases de données</b> (Oracle, SQL server, MySQL, PostgreSQL)</p>
+    <ul class="decalleLI">
+        <li>PLB Formation, Levallois-Perret (92)</li>
+    </ul>
+
+    <br />
+    <br />
+
     <p class="anneeBold">2018 - 2020</p>
     <p><b>Master MIASHS</b> (Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales) option web accessible</p>
     <ul class="decalleLI">
@@ -19,7 +28,7 @@
     <br />
 
     <p class="anneeBold">2017 - 2018</p>
-    <p><b>Licence TNAP</b> (Diplôme de Technologies Nouvelles & Autonomie de la Personne)</p>
+    <p><b>Licence TNAP</b> (Technologies Nouvelles & Autonomie de la Personne)</p>
     <ul class="decalleLI">
         <li>Lycée Colbert et Université Ilis, Lille (59)</li>
     </ul>
@@ -28,7 +37,7 @@
     <br />
 
     <p class="anneeBold">2015 - 2017</p>
-    <p><b>DUT GEII</b> (Diplôme en Génie Electrique et Informatique Industrielle) option électronique</p>
+    <p><b>DUT GEII</b> (Génie Electrique et Informatique Industrielle) option électronique</p>
     <ul class="decalleLI">
         <li>IUT d’Angers (49)</li>
     </ul>

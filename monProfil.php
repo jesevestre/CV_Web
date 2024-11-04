@@ -19,16 +19,16 @@
             <div class="tab-content active" id="profil">
                 <p><b>Mon profil de développeur</b> Depuis Septembre 2018</p>
                 <ul>
-                    <li>•   Avec une expérience professionnelle de trois ans en tant que développeur web dans différents domaines, j’ai à coeur de développer des solutions avec un haut niveau de qualité et d’exigence.</li>
+                    <li>•   Avec une expérience professionnelle de <b>trois ans</b> en tant que développeur web <b>fullstack</b>, j’ai à coeur de développer, améliorer et maintenir des solutions avec un haut niveau de <b>qualité</b> et d’exigence.</li>
 
-                    <li>•	Concevoir, améliorer, rendre accessible sont mes maîtres mots. Je prendrai en compte l’image de votre entreprise en accomplissant les missions qui me seront confiées par mon sens du relationnel et du travail en équipe.</li>
+                    <li>•	Par mes études, je possède une expertise poussée des principes <b>UX/UI</b>, du <b>responsive</b> et du <b>web design</b>, et j'ai été, lors de mon dernier poste, <b>chef de projet</b> d’une équipe de trois personnes.</li>
                     <br />
                 </ul>
             </div>
 
             <div class="tab-content" id="cv">
                 <p><b>Mon Curriculum vitæ</b><br />
-                <span class="small"> Mis à jour le 11 Juillet 2024</span></p>
+                <span class="small"> Mis à jour le 04 Novembre 2024</span></p>
 
                 <div class="col-12">
                     <ul class="pt-3 text-center" style="margin-left: -5% !important;">

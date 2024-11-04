@@ -62,7 +62,7 @@
                     </button>
                     <div class="faq__content-container" id="content-container-3">
                         <ul class="faq__content-text">
-                            <li>• Développement de <b>deux applications web<b> précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
+                            <li>• Développement de <b>deux applications web</b> précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
 
                             <li>• L'intérêt de la première est de visualiser l'<b>évolution des réponses</b> des projets déposés par les chercheurs. Un suivi détaillé de l'évolution des demandes se fait par l'utilisation de <b>workflow</b> dont une bascule s'opère à la dernière étape en <b>contrat</b>.</li>
 

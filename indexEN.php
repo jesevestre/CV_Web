@@ -54,8 +54,6 @@
     <ul class="medias">
         <li class="bulle"><a href="https://www.linkedin.com/in/jean-baptiste-sevestre-588674134/" target="_blank"><i class="fab fa-2x fa-linkedin" alt="Lien pour accéder à LinkedIn" style="color: #222" class="logo-medias"></i></a></li>
         <li class="bulle"><a href="https://github.com/jesevestre" target="_blank"><i class="fab fa-2x fa-github" alt="Lien pour accéder à GitHub" style="color: #222" class="logo-medias"></i></a></li>
-        <li class="bulle"><a href="https://www.facebook.com/JeanB.sevestre/" target="_blank"><i class="fab fa-2x fa-facebook" alt="Lien pour accéder à Facebook" style="color: #222" class="logo-medias"></i></a></li>
-        <li class="bulle"><a href="https://www.instagram.com/je.sevestre/" target="_blank"><i class="fab fa-2x fa-instagram-square" alt="Lien pour accéder à Instagram" style="color: #222" class="logo-medias"></i></a></li>
     </ul>
 
     <?php

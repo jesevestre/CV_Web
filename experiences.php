@@ -13,7 +13,7 @@
         <ul class="tabs">
             <li class="active"><a href="#professionnelles">PROFESSIONNELLE</a></li>
             <li><a href="#stages">STAGES</a></li>
-            <li><a href="#projets">PROJETS</a></li>
+            <li><a href="#projets">PROJETS PERSONNELS</a></li>
         </ul>
         <div class="tabs-content">
 
@@ -22,17 +22,19 @@
                 <article class="poste">
                     <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle1()">
                         <i class="fas fa-arrow-circle-down" id="content-container-1-icone"></i>
-                        <span class="poste_toggler_text"><b>Associé webmaster dans le lancement d'un centre de préparation et de récupération sportive, SmartRécup, Lille (59)</b> Depuis Avril 2024</span>
+                        <span class="poste_toggler_text"><b>Développeur web, Média-immo, Corbeil-Essonnes (91)</b> Novembre 2022 - Juillet 2024</span>
                     </button>
                     <div class="faq__content-container--active" id="content-container-1">
                         <ul class="faq__content-text">
-                            <li>• Réalisation de la <b>vitrine</b> du site web pour promouvoir l'activité, associée à la création d'un système complexe de <b>prise de rendez-vous</b>. Ceci comprend entre autres l'outil de gestion et de visualisation des <b>réservations</b> pour le praticien par un système <b>admin/clients</b>.</li>
+                            <li>•	Reprendre l’évolution de l’application Mairie-Urba permettant la <b>transmission dématérialisée et instantanée</b> des autorisations d’urbanisme entre les demandeurs et les mairies.</li>
 
-                            <li>• Développement d'une section <b>évènements</b> utile lors des déplacements du praticien.</li>
+                            <li>• <b>Développer, corriger et maintenir</b> le projet utilisant <b>PHP 7.0</b> et <b>MySQL</b> en architecture <b>MVC, Bootstrap, JavaScript</b> (jQuery) et implication dans la mise en place de l’<b>API</b> Plat’AU. </li>
 
-                            <li>• Amélioration régulière du <b>SEO</b> et conception <b>responsive</b> pour garantir de<b>l'accessibilité</b> de <a href="http://smartrécup.fr/" target="blank"><span class="text-primary">smartrécup.fr</span></a></li>
+                            <li>•	Déployer en <b>production</b> tout en garantissant une solution <b>robuste, fiable et intuitive</b> par mon expertise en <b>accessibilité web</b>.</li>
 
-                            <li>• Prospections, recherche active de <b>partenariat</b> et organisation de <b>collaborations</b>.</li>
+                            <li>•	Travail sur mon <b>adaptabilité</b> en devenant <b>responsable de projet</b> de 3 personnes en méthode Agile utilisant les logiciels WeKan et SVN.</li>
+
+                            <li>•	<b>Former</b> deux collègues me rejoignant sur le projet.</li>
                         </ul>
                     </div>
                 </article>
@@ -40,17 +42,15 @@
                 <article class="poste">
                     <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle2()">
                         <i class="fas fa-arrow-circle-right" id="content-container-2-icone"></i>
-                        <span class="poste_toggler_text"><b>Développeur web, Média-immo, Corbeil-Essonnes (91)</b> Novembre 2022 - Avril 2024 (1 an et demi)</span>
+                        <span class="poste_toggler_text"><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022</span>
                     </button>
                     <div class="faq__content-container" id="content-container-2">
                         <ul class="faq__content-text">
-                            <li>• Reprise de l'évolution de l'application <b>Mairie-Urba</b> permettant la <b>transmission sécurisée et instantanée</b> de façon <b>dématérialisée</b> des échanges entre les acteurs.</li>
+                            <li>•	Migrer deux applications en PowerBuilder vers le web pour <b>suivre et visualiser</b> l’évolution des projets de recherche via l'utilisation de <b>workflow</b>, aboutissant à la création d’un <b>contrat</b>.</li>
 
-                            <li>• Développement et correction des deux interfaces utilisant en backend <b>PHP 7.0</b> avec <b>MySQL</b> en <b>architecture MVC</b>. En frontend <b>Bootstrap</b> et <b>Javascript</b> (jQuery) tout en participant à la mise en place de l'<b>API Plat'AU</b>.</li>
+                            <li>•	Développer une application pour la <b>gestion financière</b> des contrats de recherche, visant à suivre et coordonner les <b>dépenses</b> et à les rapprocher d'un <b>budget</b> préalablement défini.</li>
 
-                            <li>• <b>Responsable de projet</b> en <b>méthode agile</b> avec <b>WeKan</b> et <b>SVN</b> pour le <b>versioning</b>.</li>
-
-                            <li>• <b>Formateur</b> de deux collègues me rejoignant sur le projet.</li>
+                            <li>•	Projets utilisant APACHE2, <b>MariaDB</b> et <b>JavaScript</b> (AJAX). Migrer vers un nouveau serveur en <b>PHP 7.4</b> avec l’aide d’un info. réseau et admin système. Changer l’<b>encodage</b> des applications en ISO vers l’<b>UTF8</b>.</li>
                         </ul>
                     </div>
                 </article>
@@ -58,27 +58,9 @@
                 <article class="poste">
                     <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle3()">
                         <i class="fas fa-arrow-circle-right" id="content-container-3-icone"></i>
-                        <span class="poste_toggler_text"><b>Ingénieur développeur, CEA, Saclay (91)</b> Juillet 2021 - Juillet 2022 (12 mois)</span>
+                        <span class="poste_toggler_text"><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021</span>
                     </button>
                     <div class="faq__content-container" id="content-container-3">
-                        <ul class="faq__content-text">
-                            <li>• Développement de <b>deux applications web</b> précédemment utilisées en PowerBuilder (interface Windows aussi appelée client lourd).</li>
-
-                            <li>• L'intérêt de la première est de visualiser l'<b>évolution des réponses</b> des projets déposés par les chercheurs. Un suivi détaillé de l'évolution des demandes se fait par l'utilisation de <b>workflow</b> dont une bascule s'opère à la dernière étape en <b>contrat</b>.</li>
-
-                            <li>• La seconde est utilisée pour la <b>gestion financière des contrats de recherche</b>. Leur nombre croissant a amené mon institut à réfléchir à un système global de suivi des contrats. Ceci dans l'objectif de suivre et coordonner leurs <b>dépenses inhérentes</b> et les rapprocher d'un <b>budget</b> préalablement défini.</li>
-
-                            <li>• Utilisation d'APACHE2.0, <b>MariaDB</b> et de <b>JavaScript</b> (AJAX). Réalisation de la <b>migration</b> vers un nouveau serveur en version <b>PHP 7.4</b> avec l'accompagnement d'un informaticien réseau et administrateur système. Passage des applications encodées en <b>ISO</b> vers l'<b>UTF8</b>.</li>
-                        </ul>
-                    </div>
-                </article>
-
-                <article class="poste">
-                    <button type="button" class="faq__question-toggler" onClick="handleQuestionToogle4()">
-                        <i class="fas fa-arrow-circle-right" id="content-container-4-icone"></i>
-                        <span class="poste_toggler_text"><b>Analyste développeur, ISOAR, Rungis (91)</b> Décembre - Mars 2021 (4 mois)</span>
-                    </button>
-                    <div class="faq__content-container" id="content-container-4">
                         <ul class="faq__content-text">
                             <li>• Développement de l'outil CRM web du logiciel d'ERP Squalp ayant comme objectif pour les commerciaux d'avoir une utilisation nomade de l'application lors de leur mission. Durant cette phase j'ai réalisé consulting data avec l'étude de mise en oeuvre, puis la conception de l'application en <b>gestion du projet</b> (Trello) en modèle MVC utilisant les technologie <b>PHP-Objet et VueJS-2</b>, concepteur et administrateur de la base de données en SQLServer, et enfin bêta-testeur.</li>
 
@@ -93,14 +75,11 @@
             </div>
 
             <div class="tab-content" id="stages">
-                <p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)
-                    </b>Mars – Septembre 2020 (6 mois)</p>
+                <p><b>Stagiaire en R&D, secteur du Diagnostic System, Groupe Renault, Guyancourt (78)</b>Mars – Septembre 2020 (6 mois)</p>
                 <ul>
-                    <li>• Mise en place d'une application web permettant la <b>gestion des retours d'usines</b> sous forme de code erreur. Il a comme objectif d'<b>automatiser</b> et de <b>rendre paramétrables</b> par les utilisateurs ces retours originellement administrés par fichiers Excel.</li>
+                    <li>•	Mise en place d'une <b>application web</b> pour automatiser la <b>gestion</b> des retours d’usines par code erreur. L’objectif est d’<b>automatiser</b> et de <b>rendre paramétrables</b> par les utilisateurs ces retours, remplaçant l’administration par fichiers Excel.</li>
 
-                    <li>• Mission accompagné d'une partie accessibilité pour <b>personne à déficience visuelle</b> et à la mise en place d'une interface multilingue.</li>
-
-                    <li>• Expérience et compétence acquises dans la réalisation de ce projet en large autonomie dû à la crise du covid utilisant les langages <b>PHP, HTML/CSS et PostgreSQL</b>.</li>
+                    <li>•	Intégrer de l’accessibilité pour <b>personne à déficience visuelle</b> et d’une interface <b>multilingue</b>. Projet réalisé en grande autonomie durant la crise du covid-19, utilisant les technologies PHP, HTML/CSS et <b>PostgreSQL</b>.</li>
 
                     <li><a href="fichierTelechargeable/Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf" download="Mémoire_De_Stage_Jean-Baptiste_SEVESTRE_Master.pdf">Télécharger le rapport</a></li>
                     <li><a href="fichierTelechargeable/Oral_Jean-Baptiste_SEVESTRE_Master.pptx" download="Oral_Jean-Baptiste_SEVESTRE_Master.pptx">Télécharger la présentation</a></li>
@@ -147,6 +126,21 @@
 
 
             <div class="tab-content" id="projets">
+
+            <p><b>Associé webmaster dans le lancement d'un centre de préparation et de récupération sportive, SmartRécup, Lille (59)</b> Depuis Avril 2024</span>
+                </button>
+                <div class="faq__content-container--active" id="content-container-1">
+                    <ul class="faq__content-text">
+                        <li>• Réalisation de la <b>vitrine</b> du site web pour promouvoir l'activité, associée à la création d'un système complexe de <b>prise de rendez-vous</b>. Ceci comprend entre autres l'outil de gestion et de visualisation des <b>réservations</b> pour le praticien par un système <b>admin/clients</b>.</li>
+
+                        <li>• Développement d'une section <b>évènements</b> utile lors des déplacements du praticien.</li>
+
+                        <li>• Amélioration régulière du <b>SEO</b> et conception <b>responsive</b> pour garantir de<b>l'accessibilité</b> de <a href="http://smartrécup.fr/" target="blank"><span class="text-primary">smartrécup.fr</span></a></li>
+
+                        <li>• Prospections, recherche active de <b>partenariat</b> et organisation de <b>collaborations</b>.</li>
+                    </ul>
+                <br />
+
                 <p><b>Création d'un site web pour un footballeur professionnel se lançant dans le coaching sportif en VueJS2</b></p>
                 <ul class="decalleLI">
                     <li>• Création d'un site web pour un footballeur professionnel se lançant dans le coaching sportif et ayant besoin de visibilité.</li>

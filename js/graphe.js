@@ -6,16 +6,16 @@ var myChart = new Chart(graph, {
     data: {
         labels: [
             "Echelle",
-            "PHP", 
-            "HTML/CSS", 
-            "SQL", 
-            "JavaScript", 
-            "VueJS2", 
-            "Symfony4/5",
+            "PHP (7.0, 7.4 et 8.2)", 
+            "HTML/CSS (Bootstrap)", 
+            "SQL (MySQL, PostGreSQL, SQLServer)", 
+            "JavaScript (Vanilla, JQuery et AJAX)", 
+            "VueJS2 et 3", 
+            "WordPress",
         ],    
         datasets: [{
             label: "Maîtrise des langages",
-            data: [0, 7, 9, 8, 6, 4, 2],
+            data: [0, 7, 9, 8, 6, 6, 5],
             backgroundColor: 'rgba(203, 200, 192, 0.7)',
             borderColor: '#32CD32',
             borderWidth: 2.5,

@@ -18,13 +18,13 @@
 
             <div class="tab-content active" id="programmation">
                 <ul>
-                    <li>•	<b>PHP</b> (7.0, 7.4, 8.2)</li>
-                    <li>•	<b>SQL</b> (MySQL, PostgreSQL, SQLServer)</li>
-                    <li>•	<b>Javascript</b> (Vanilla, jQuery, AJAX)</li>
-                    <li>•	Framework <b>VueJS2 et 3</b></li>
-                    <li>•	CMS <b>WordPress</b></li>
-                    <li>•	HTML/CSS (Bootstrap)</li>
-                    <li>•	Connaissance du Framework Symfony4</li>
+                    <li>•	<b>PHP</b></li>
+                    <li>•	<b>HTML/CSS</b></li>
+                    <li>•	<b>Base de données</b> SQL (MySQL, SQLServer, PostgreSQL)</li>
+                    <li>•	<b>Javascript</b></li>
+                    <li>•	<b>AJAX</b></li>
+                    <li>•	Front-end VueJS-2</li>
+                    <li>•	Back-end Symfony4/5</li>
                 </ul>
 
                 <canvas id="graph" style="display: block; margin-left: auto;  width: 75%; margin-right: auto;">
@@ -35,12 +35,14 @@
             <div class="tab-content" id="environnement">
                 <ul>
                     <li>•	Environnement <b>Linux/Unix</b> et <b>Windows</b> maîtrisé</li>
-                    <li>•	Outils d'<b>accessibilité web</b> (W3C, WAI et WCAG 2.0)</li>
-                    <li>•	Gestion de projet en méthodes <b>Agiles</b> (WeKan, Trello, Gantt)</li>
-                    <li>•	Logiciel de <b>versionning</b> (Git/GitHub, SVN)</li>
-                    <li>•	Hébergement et services <b>OVH</b></li>
-                    <li>•	Visualisation des données <b>POWER BI</b></li>
-                    <li>•	Respect et application des <b>règles RGPD</b></li>
+                    <li>•	Gestion de projet en méthodes <b>Agiles SCRUM</b> (Git/GitHub, Trello, Microsft Project, WeKan)</li>
+                    <li>•	Logiciel d’analyse et visualisation des données <b>POWER BI</b> (low-code)</li>
+                    <li>•	Outils bureautiques (Word, Excel, PowerPoint, Project, Libre Office)</li>
+                    <li>•	Développement d’<b>application Android</b> (Android-Studio et Firebase)</li>
+                    <li>•	Editeur de code <b>Visual-Studio-Code et DreamWeaver</b></li>
+                    <li>•	Outils d’accessibilité (W3C, WAI et WCAG 2.0)</li>
+                    <li>•	Connaissance dans le CMS WordPress</li>
+                    <li>•	Outils graphiques (GIMP2, SktechUp, Paint, Windows Movie Maker)</li>
                 </ul>
             </div>
 

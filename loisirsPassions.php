@@ -19,7 +19,7 @@
         <div class="tabs-content">
 
             <div class="tab-content active" id="benevolat">
-                <p>•	Chez les personnes âgées pour leur <b>autonomie numérique</b>, notamment pour :
+                <p>•	Aide chez les personnes âgées concernant leur souci d’<b>informatique</b>, notamment pour :
                      <ol>
                         <li>Le debuggage informatique</li>
                         <li>Leur téléviseur</li>
@@ -28,7 +28,7 @@
                     </ol>
                 </p>
 
-                <p>•	Je m'occupe aussi des <b>espaces verts</b> de mon voisinage, totamment en m'occupant de :
+                <p>•	Me changer l’esprit en m’occupant des <b>espaces verts</b> de mon voisinage, totamment en m'occupant de :
                     <ol>
                         <li>L'entretien de massif</li>
                         <li>Le jardinage</li>
@@ -42,10 +42,11 @@
 
 
             <div class="tab-content" id="sport">
-                <p>•	Pratique régulière dans une <b>salle de sports</b> depuis 2017, cela me permet entre autres de penser à autre chose qu'à l'informatique. Comme dit le dicton, bien dans 
+                <p>•	Pratique régulière dans une <b>salle de sports</b> depuis 2017, cela me permet 
+                entre autres de penser à autre chose qu'à l'informatique. Comme dit le dicton, bien dans 
                 son corps, bien dans sa tête.</p>
 
-                <p>•	Pratiquant du <b>volley-ball</b> en club.</p>
+                <p>•	Pratiquant de <b>volley-ball</b> régulier.</p>
 
                 <p>•	Encien pratiquant en club communal du <b>VTT</b>. Cette passion ne m'a jamais quitté puisque dès que je pars en vacances, je l'emnène avec moi.</p>
                 <table class="image_sport">
@@ -62,7 +63,7 @@
 
                 <p>•	Je m'intéresse aussi beaucoup aux nouvelles technologies. En ce moment, je me perfectionne au CMS <b>WordPress</b>.<p>
                     
-                <p>•	Je joue aussi de temps en temps à Cities-Skylines II, Transport-Fever 2 et Factorio qui sont des jeux de création et de <b>gestion de ville</b>.</p>
+                <p>•	Je joue aussi de temps en temps à Cities-Skylines, Transport-Fever et Factorio qui sont des jeux de création et de <b>gestion de ville</b>.</p>
 
                 <p>•	Je posséde le permis <b>voiture, grande remorque et bateau côtier</b>. A présent quand j'en ai l'occasion, je pars en balade avec des amis sur les cotes de la mer méditérranée.</p>
             </div>

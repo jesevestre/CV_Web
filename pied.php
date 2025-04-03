@@ -8,7 +8,8 @@
 
 			<div class="col-md-4 col-lg-4 col-xl-3 mx-auto mt-3">
 				<h5 class="text-uppercase mb-4 font-weight-bold" id="text-warning">Présentation</h5>
-				<p class="text-justify">Ce site web a été réalisé dans le but de présenter dans un espace plus libre qu'un CV, mes compétences et expériences. La page d'accueil a été réalisée à l'aide de la librairie GSAP.</br>
+				<p class="text-justify">Ce site web a été réalisé dans le but de présenter dans un 
+					espace plus libre qu'un CV, mes compétences et expériences. La page d'accueil a été réalisée à l'aide de la librairie GSAP.</br>
 						<i class="fab fa-js-square fa-lg"></i> 
 						<i class="fab fa-html5 fa-lg"></i> 
 						<i class="fab fa-css3-alt fa-lg"></i> 
